@@ -1,0 +1,350 @@
+﻿tag;patrones;respuestas;id
+Disponible;Disponible;Disponible;1.01.01.00
+Depósitos a plazo;Depósitos a plazo;Depósitos a plazo;1.01.03.00
+Valores negociables;Valores negociables;Valores negociables;1.01.05.00
+Instrumentos derivados ;Instrumentos derivados ;Instrumentos derivados ;1.01.07.00
+Pactos Retrocompra- Retroventa;Pactos Retrocompra- Retroventa;Pactos Retrocompra- Retroventa;1.01.09.00
+Inversiones en el Exterior;Inversiones en el Exterior;Inversiones en el Exterior;1.01.15.00
+Deudores por venta, neto (excluye deudores por leasing);Deudores por venta, neto (excluye deudores por leasing);Deudores por venta, neto (excluye deudores por leasing);1.01.20.00
+Deudores por Leasing;Deudores por Leasing;Deudores por Leasing;1.01.21.00
+Documentos por cobrar ;Documentos por cobrar ;Documentos por cobrar ;1.01.25.00
+Deudores varios;Deudores varios;Deudores varios;1.01.30.00
+Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);1.01.40.00
+Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);1.01.41.00
+Existencias, neto;Existencias, neto;Existencias, neto;1.01.50.00
+Activos Biológicos, neto;Activos Biológicos, neto;Activos Biológicos, neto;1.01.51.00
+Existencias en Tránsito;Existencias en Tránsito;Existencias en Tránsito;1.01.55.00
+IVA Crédito Fiscal;IVA Crédito Fiscal;IVA Crédito Fiscal;1.01.59.00
+Impuestos por recuperar;Impuestos por recuperar;Impuestos por recuperar;1.01.60.00
+Créditos por Donaciones;Créditos por Donaciones;Créditos por Donaciones;1.01.61.00
+Otros Créditos por recuperar;Otros Créditos por recuperar;Otros Créditos por recuperar;1.01.62.00
+Bienes entregados en leasing;Bienes entregados en leasing;Bienes entregados en leasing;1.01.70.00
+Otros activos corrientes;Otros activos corrientes;Otros activos corrientes;1.01.99.00
+Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing);Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing);Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing);1.02.10.00
+Terrenos;Terrenos;Terrenos;1.02.11.00
+Construcción y obras de infraestructura;Construcción y obras de infraestructura;Construcción y obras de infraestructura;1.02.12.00
+Maquinarias y equipos;Maquinarias y equipos;Maquinarias y equipos;1.02.13.00
+Muebles y utiles;Muebles y utiles;Muebles y utiles;1.02.14.00
+Equipos Computacionales y similares;Equipos Computacionales y similares;Equipos Computacionales y similares;1.02.15.00
+Automóviles;Automóviles;Automóviles;1.02.16.00
+Vehículos;Vehículos;Vehículos;1.02.17.00
+Barcos y Aviones;Barcos y Aviones;Barcos y Aviones;1.02.18.00
+Propiedades de Inversion;Propiedades de Inversion;Propiedades de Inversion;1.02.19.00
+Software;Software;Software;1.02.25.00
+Concesiones;Concesiones;Concesiones;1.02.26.00
+Obras en Ejecución;Obras en Ejecución;Obras en Ejecución;1.02.27.00
+Obras en Ejecución;Obras en Ejecución;Obras en Ejecución;1.02.28.00
+Activos en Leasing;Activos en Leasing;Activos en Leasing;1.02.30.00
+Depreciación Acumulada (excepto Automoviles y Activos en Leasing);Depreciación Acumulada (excepto Automoviles y Activos en Leasing);Depreciación Acumulada (excepto Automoviles y Activos en Leasing);1.02.90.00
+Depreciación Acumulada Automóviles;Depreciación Acumulada Automóviles;Depreciación Acumulada Automóviles;1.02.92.00
+Depreciación Acumulada Activos en Leasing;Depreciación Acumulada Activos en Leasing;Depreciación Acumulada Activos en Leasing;1.02.95.00
+Otros Bienes Propiedad Planta y Equipo;Otros Bienes Propiedad Planta y Equipo;Otros Bienes Propiedad Planta y Equipo;1.02.99.00
+Inversiones en empresas relacionadas;Inversiones en empresas relacionadas;Inversiones en empresas relacionadas;1.03.01.00
+Menor valor de inversiones (Plusvalias, Goodwill);Menor valor de inversiones (Plusvalias, Goodwill);Menor valor de inversiones (Plusvalias, Goodwill);1.03.03.00
+Mayor valor de inversiones (Minusvalias, Badwill);Mayor valor de inversiones (Minusvalias, Badwill);Mayor valor de inversiones (Minusvalias, Badwill);1.03.04.00
+Cuenta Particular Socio;Cuenta Particular Socio;Cuenta Particular Socio;1.03.05.00
+Inversiones en otras sociedades en Chile;Inversiones en otras sociedades en Chile;Inversiones en otras sociedades en Chile;1.03.10.00
+Deudores a largo plazo;Deudores a largo plazo;Deudores a largo plazo;1.03.20.00
+Anticipo y préstamos a los empleados;Anticipo y préstamos a los empleados;Anticipo y préstamos a los empleados;1.03.24.00
+Anticipo a proveedores;Anticipo a proveedores;Anticipo a proveedores;1.03.25.00
+Gastos pagados por anticipado;Gastos pagados por anticipado;Gastos pagados por anticipado;1.03.30.00
+Gastos de Investigación y Desarrollo;Gastos de Investigación y Desarrollo;Gastos de Investigación y Desarrollo;1.03.31.00
+Gastos Diferidos;Gastos Diferidos;Gastos Diferidos;1.03.32.00
+Menor Valor en Colocacion de bonos;Menor Valor en Colocacion de bonos;Menor Valor en Colocacion de bonos;1.03.33.00
+Intereses Diferidos por Leasing;Intereses Diferidos por Leasing;Intereses Diferidos por Leasing;1.03.40.00
+Otros Intereses Diferidos;Otros Intereses Diferidos;Otros Intereses Diferidos;1.03.41.00
+Garantias;Garantias;Garantias;1.03.45.00
+Impuestos diferidos ;Impuestos diferidos ;Impuestos diferidos ;1.03.50.00
+Intangibles distintos a la Plusvalia (neto);Intangibles distintos a la Plusvalia (neto);Intangibles distintos a la Plusvalia (neto);1.03.60.00
+Posicion de Cambio;Posicion de Cambio;Posicion de Cambio;1.03.70.00
+Intereses Suspendidos;Intereses Suspendidos;Intereses Suspendidos;1.03.71.00
+Cuentas de Orden de Activos;Cuentas de Orden de Activos;Cuentas de Orden de Activos;1.03.98.00
+Otros Activos No Corrientes;Otros Activos No Corrientes;Otros Activos No Corrientes;1.03.99.00
+Obligaciones con bancos e instituciones financieras ;Obligaciones con bancos e instituciones financieras ;Obligaciones con bancos e instituciones financieras ;2.01.01.00
+Obligaciones con el público (Bonos Emitidos);Obligaciones con el público (Bonos Emitidos);Obligaciones con el público (Bonos Emitidos);2.01.03.00
+Obligaciones por Leasing;Obligaciones por Leasing;Obligaciones por Leasing;2.01.04.00
+Instrumentos derivados ;Instrumentos derivados ;Instrumentos derivados ;2.01.07.00
+Fondo Opcion de Compra por Pagar (Leasing);Fondo Opcion de Compra por Pagar (Leasing);Fondo Opcion de Compra por Pagar (Leasing);2.01.08.00
+Cuentas por pagar;Cuentas por pagar;Cuentas por pagar;2.01.10.00
+Proveedores por Pagar;Proveedores por Pagar;Proveedores por Pagar;2.01.11.00
+Acreedores varios;Acreedores varios;Acreedores varios;2.01.12.00
+Documentos por pagar;Documentos por pagar;Documentos por pagar;2.01.14.00
+Dividendos por pagar;Dividendos por pagar;Dividendos por pagar;2.01.20.00
+Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);2.01.40.00
+Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);2.01.41.00
+Provision de Indemnización;Provision de Indemnización;Provision de Indemnización;2.01.50.00
+Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados;Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados;Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados;2.01.51.00
+Otras Provisiones;Otras Provisiones;Otras Provisiones;2.01.54.00
+Retenciones por Pagar;Retenciones por Pagar;Retenciones por Pagar;2.01.55.00
+IVA Débito Fiscal ;IVA Débito Fiscal ;IVA Débito Fiscal ;2.01.59.00
+Impuesto a la renta por Pagar;Impuesto a la renta por Pagar;Impuesto a la renta por Pagar;2.01.60.00
+Otros Impuestos por Pagar;Otros Impuestos por Pagar;Otros Impuestos por Pagar;2.01.61.00
+Ingresos percibidos por adelantado;Ingresos percibidos por adelantado;Ingresos percibidos por adelantado;2.01.62.00
+Anticipo de Clientes;Anticipo de Clientes;Anticipo de Clientes;2.01.70.00
+Otros pasivos Corrientes;Otros pasivos Corrientes;Otros pasivos Corrientes;2.01.99.00
+Obligaciones con bancos e instituciones financieras ;Obligaciones con bancos e instituciones financieras ;Obligaciones con bancos e instituciones financieras ;2.02.01.00
+Obligaciones con el público (Bonos Emitidos);Obligaciones con el público (Bonos Emitidos);Obligaciones con el público (Bonos Emitidos);2.02.02.00
+Documentos por pagar largo plazo;Documentos por pagar largo plazo;Documentos por pagar largo plazo;2.02.03.00
+Acreedores varios largo plazo;Acreedores varios largo plazo;Acreedores varios largo plazo;2.02.04.00
+Provisiones ;Provisiones ;Provisiones ;2.02.06.00
+Impuestos diferidos ;Impuestos diferidos ;Impuestos diferidos ;2.02.07.00
+Cuentas de Orden de Pasivos;Cuentas de Orden de Pasivos;Cuentas de Orden de Pasivos;2.02.98.00
+Otros pasivos NO Corrientes;Otros pasivos NO Corrientes;Otros pasivos NO Corrientes;2.02.99.00
+Capital pagado;Capital pagado;Capital pagado;2.03.01.00
+Reserva revalorización capital;Reserva revalorización capital;Reserva revalorización capital;2.03.02.00
+Sobreprecio en venta de acciones propias;Sobreprecio en venta de acciones propias;Sobreprecio en venta de acciones propias;2.03.03.00
+Otras reservas;Otras reservas;Otras reservas;2.03.04.00
+Reservas futuros dividendos;Reservas futuros dividendos;Reservas futuros dividendos;2.03.05.00
+Utilidades acumuladas;Utilidades acumuladas;Utilidades acumuladas;2.03.06.00
+Pérdidas acumuladas;Pérdidas acumuladas;Pérdidas acumuladas;2.03.07.00
+Dividendos provisorios;Dividendos provisorios;Dividendos provisorios;2.03.08.00
+Cuenta Obligada Socio;Cuenta Obligada Socio;Cuenta Obligada Socio;2.03.09.00
+Reserva Ajuste IFRS por 1a Aplicación;Reserva Ajuste IFRS por 1a Aplicación;Reserva Ajuste IFRS por 1a Aplicación;2.03.20.00
+Reserva Ajuste IFRS ;Reserva Ajuste IFRS ;Reserva Ajuste IFRS ;2.03.21.00
+Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.544;Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.545;Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.546;2.03.30.00
+Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.544;Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.545;Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.546;2.03.31.00
+Otros ajustes patrimoniales;Otros ajustes patrimoniales;Otros ajustes patrimoniales;2.03.99.00
+Ingresos de explotación;Ingresos de explotación;Ingresos de explotación;3.01.01.00
+Costos de explotación ;Costos de explotación ;Costos de explotación ;3.01.02.00
+Gastos de administración y ventas ;Gastos de administración y ventas ;Gastos de administración y ventas ;3.01.03.00
+Ingresos de explotación con partes relacionadas del exterior;Ingresos de explotación con partes relacionadas del exterior;Ingresos de explotación con partes relacionadas del exterior;3.01.11.00
+Costos de explotación con relacionados del exterior;Costos de explotación con relacionados del exterior;Costos de explotación con relacionados del exterior;3.01.12.00
+Gastos de administración y ventas con relacionados del exterior;Gastos de administración y ventas con relacionados del exterior;Gastos de administración y ventas con relacionados del exterior;3.01.13.00
+Resultado Fuera De Explotacion;Resultado Fuera De Explotacion;Resultado Fuera De Explotacion;3.02.00.00
+Ingresos financieros;Ingresos financieros;Ingresos financieros;3.02.01.00
+Utilidad (pérdida) inversiones empresas relacionadas;Utilidad (pérdida) inversiones empresas relacionadas;Utilidad (pérdida) inversiones empresas relacionadas;3.02.02.00
+Otros ingresos fuera de la explotación;Otros ingresos fuera de la explotación;Otros ingresos fuera de la explotación;3.02.03.00
+Gastos financieros con empresas relacionadas ;Gastos financieros con empresas relacionadas ;Gastos financieros con empresas relacionadas ;3.02.06.00
+Gastos financieros con empresas no relacionadas ;Gastos financieros con empresas no relacionadas ;Gastos financieros con empresas no relacionadas ;3.02.07.00
+Resultado por Instrumentos Derivados;Resultado por Instrumentos Derivados;Resultado por Instrumentos Derivados;3.02.08.00
+Ingresos financieros con partes relacionadas del exterior;Ingresos financieros con partes relacionadas del exterior;Ingresos financieros con partes relacionadas del exterior;3.02.11.00
+Gastos financieros con partes relacionadas del exterior;Gastos financieros con partes relacionadas del exterior;Gastos financieros con partes relacionadas del exterior;3.02.16.00
+Intereses percibidos o devengado con partes relacionadas del exterior;Intereses percibidos o devengado con partes relacionadas del exterior;Intereses percibidos o devengado con partes relacionadas del exterior;3.02.30.00
+Intereses pagados o adeudados con partes relacionadas del exterior;Intereses pagados o adeudados con partes relacionadas del exterior;Intereses pagados o adeudados con partes relacionadas del exterior;3.02.31.00
+Resultados que no representan flujo de fondos;Resultados que no representan flujo de fondos;Resultados que no representan flujo de fondos;3.03.00.00
+Depreciacion;Depreciacion;Depreciacion;3.03.01.00
+Deterioros;Deterioros;Deterioros;3.03.02.00
+Amortización Intangibles distintos a las Plusvalias;Amortización Intangibles distintos a las Plusvalias;Amortización Intangibles distintos a las Plusvalias;3.03.03.00
+Amortización menor valor de inversiones (Goodwill);Amortización menor valor de inversiones (Goodwill);Amortización menor valor de inversiones (Goodwill);3.03.04.00
+Amortización mayor valor de inversiones;Amortización mayor valor de inversiones;Amortización mayor valor de inversiones;3.03.05.00
+Castigos;Castigos;Castigos;3.03.06.00
+Ajustes a Valor de Mercado;Ajustes a Valor de Mercado;Ajustes a Valor de Mercado;3.04.00.00
+Valor Mercado Instrumentos Derivados acogidos Ley 20.544;Valor Mercado Instrumentos Derivados acogidos Ley 20.545;Valor Mercado Instrumentos Derivados acogidos Ley 20.546;3.04.01.00
+Valor Mercado Instrumentos Derivados NO acogidos Ley 20.544;Valor Mercado Instrumentos Derivados NO acogidos Ley 20.545;Valor Mercado Instrumentos Derivados NO acogidos Ley 20.546;3.04.02.00
+Ajuste Valor Mercado Existencias (VNR) y Activos Biologicos;Ajuste Valor Mercado Existencias (VNR) y Activos Biologicos;Ajuste Valor Mercado Existencias (VNR) y Activos Biologicos;3.04.03.00
+Ajuste Valor Mercado Propiedad Planta y Equipo, Propiedad Inversion, Activos No Corrientes Mantenidos para la Venta;Ajuste Valor Mercado Propiedad Planta y Equipo, Propiedad Inversion, Activos No Corrientes Mantenidos para la Venta;Ajuste Valor Mercado Propiedad Planta y Equipo, Propiedad Inversion, Activos No Corrientes Mantenidos para la Venta;3.04.04.00
+Ajuste Valor Mercado Fondos Mutuos;Ajuste Valor Mercado Fondos Mutuos;Ajuste Valor Mercado Fondos Mutuos;3.04.05.00
+Ajuste Valor Mercado Valores Negociables;Ajuste Valor Mercado Valores Negociables;Ajuste Valor Mercado Valores Negociables;3.04.06.00
+Ajuste Valor Neto Realización;Ajuste Valor Neto Realización;Ajuste Valor Neto Realización;3.04.07.00
+Otros Ajustes a Valor Mercado;Otros Ajustes a Valor Mercado;Otros Ajustes a Valor Mercado;3.04.99.00
+Otros Resultados;Otros Resultados;Otros Resultados;3.05.00.00
+Resultado por la Enajenacion de Inversiones Permanentes;Resultado por la Enajenacion de Inversiones Permanentes;Resultado por la Enajenacion de Inversiones Permanentes;3.05.01.00
+Resultado por la Enajenacion de Inversiones en otras sociedades;Resultado por la Enajenacion de Inversiones en otras sociedades;Resultado por la Enajenacion de Inversiones en otras sociedades;3.05.02.00
+Resultado por la Enajenacion de Inversiones en Valores Negociables;Resultado por la Enajenacion de Inversiones en Valores Negociables;Resultado por la Enajenacion de Inversiones en Valores Negociables;3.05.05.00
+Resultado por la Enajenacion Propiedad Planta y Equipos,Propiedad de Inversion y Activos no Corrientes mantenidos para la venta;Resultado por la Enajenacion Propiedad Planta y Equipos,Propiedad de Inversion y Activos no Corrientes mantenidos para la venta;Resultado por la Enajenacion Propiedad Planta y Equipos,Propiedad de Inversion y Activos no Corrientes mantenidos para la venta;3.05.07.00
+Resultado enajenación Activo Fijo;Resultado enajenación Activo Fijo;Resultado enajenación Activo Fijo;3.05.08.00
+Otros egresos fuera de la explotación ;Otros egresos fuera de la explotación ;Otros egresos fuera de la explotación ;3.05.10.00
+Corrección monetaria;Corrección monetaria;Corrección monetaria;3.05.11.00
+Diferencias de cambio;Diferencias de cambio;Diferencias de cambio;3.05.12.00
+Donaciones;Donaciones;Donaciones;3.05.13.00
+Intereses,Multas y Reajustes;Intereses,Multas y Reajustes;Intereses,Multas y Reajustes;3.05.15.00
+Patentes Municipales;Patentes Municipales;Patentes Municipales;3.05.16.00
+Otros Impuestos;Otros Impuestos;Otros Impuestos;3.05.17.00
+Resultado Antes de Impuesto a la Renta ;Resultado Antes de Impuesto a la Renta ;Resultado Antes de Impuesto a la Renta ;3.06.00.00
+Impuesto a La Renta;Impuesto a La Renta;Impuesto a La Renta;3.06.01.00
+Impuesto Diferido;Impuesto Diferido;Impuesto Diferido;3.06.02.00
+Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°8;Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°9;Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°10;5.01.01.01
+Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°9;Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°10;Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°11;5.01.01.02
+Corr.mon.bonos, pagares y otros activos financieros;Corr.mon.bonos, pagares y otros activos financieros;Corr.mon.bonos, pagares y otros activos financieros;5.01.01.03
+Interes a valor tributario por activos financieros;Interes a valor tributario por activos financieros;Interes a valor tributario por activos financieros;5.01.01.04
+Dividendos Percibidos contabilizados en ingresos según registros contables;Dividendos Percibidos contabilizados en ingresos según registros contables;Dividendos Percibidos contabilizados en ingresos según registros contables;5.01.01.05
+Ajuste por Valor Mercado de Fondos Mutuos;Ajuste por Valor Mercado de Fondos Mutuos;Ajuste por Valor Mercado de Fondos Mutuos;5.01.01.06
+Ajuste por Valor Mercado otros instrumentos Financieros ;Ajuste por Valor Mercado otros instrumentos Financieros ;Ajuste por Valor Mercado otros instrumentos Financieros ;5.01.01.07
+Deterioro por activos financieros;Deterioro por activos financieros;Deterioro por activos financieros;5.01.01.08
+Ajuste tasa efectiva por activos financieros;Ajuste tasa efectiva por activos financieros;Ajuste tasa efectiva por activos financieros;5.01.01.09
+Resultado por Enajenación activos financieros según registros contables ;Resultado por Enajenación activos financieros según registros contables ;Resultado por Enajenación activos financieros según registros contables ;5.01.01.10
+Resultado por Enajenación activos financieros a valor tributario;Resultado por Enajenación activos financieros a valor tributario;Resultado por Enajenación activos financieros a valor tributario;5.01.01.11
+Otros agregados al resultado tributario por activos financieros;Otros agregados al resultado tributario por activos financieros;Otros agregados al resultado tributario por activos financieros;5.01.01.98
+Otros deducidos al resultado tributario por activos financieros;Otros deducidos al resultado tributario por activos financieros;Otros deducidos al resultado tributario por activos financieros;5.01.01.99
+Valor mercado instrumentos derivados NO acogidos Ley 20.544;Valor mercado instrumentos derivados NO acogidos Ley 20.545;Valor mercado instrumentos derivados NO acogidos Ley 20.546;5.01.02.01
+Valor mercado instrumentos derivados registrados en patrimonio acogidos Ley 20.544;Valor mercado instrumentos derivados registrados en patrimonio acogidos Ley 20.545;Valor mercado instrumentos derivados registrados en patrimonio acogidos Ley 20.546;5.01.02.02
+Ineficacia por Instrumentos derivados;Ineficacia por Instrumentos derivados;Ineficacia por Instrumentos derivados;5.01.02.03
+Ajuste por pactos o contratos de retrocompra y/o retroventa según registros contables;Ajuste por pactos o contratos de retrocompra y/o retroventa según registros contables;Ajuste por pactos o contratos de retrocompra y/o retroventa según registros contables;5.01.02.04
+Ajuste por pactos, contratos de retrocompra y/o retroventa a valor tributario;Ajuste por pactos, contratos de retrocompra y/o retroventa a valor tributario;Ajuste por pactos, contratos de retrocompra y/o retroventa a valor tributario;5.01.02.05
+Otros agregados al resultado tributario por instrumentos derivados;Otros agregados al resultado tributario por instrumentos derivados;Otros agregados al resultado tributario por instrumentos derivados;5.01.02.96
+Otras deducciones al resultado tributario por instrumentos derivados;Otras deducciones al resultado tributario por instrumentos derivados;Otras deducciones al resultado tributario por instrumentos derivados;5.01.02.97
+Otros agregados al resultado tributario por pactos, pactos retrocompra y/o retroventa;Otros agregados al resultado tributario por pactos, pactos retrocompra y/o retroventa;Otros agregados al resultado tributario por pactos, pactos retrocompra y/o retroventa;5.01.02.98
+Otras deducciones al resultado tributario por pactos, pactos retrocompra y/o retroventa;Otras deducciones al resultado tributario por pactos, pactos retrocompra y/o retroventa;Otras deducciones al resultado tributario por pactos, pactos retrocompra y/o retroventa;5.01.02.99
+Castigo directo deudores incobrables según registros contables;Castigo directo deudores incobrables según registros contables;Castigo directo deudores incobrables según registros contables;5.01.03.01
+Estimación deudores incobrables según registros contables;Estimación deudores incobrables según registros contables;Estimación deudores incobrables según registros contables;5.01.03.02
+Castigo deudores incobrables Art.31 Inciso 4 N°4;Castigo deudores incobrables Art.31 Inciso 4 N°5;Castigo deudores incobrables Art.31 Inciso 4 N°6;5.01.03.03
+Estimacion deudores incobrables Art.31 Inciso 4 N°4 ;Estimacion deudores incobrables Art.31 Inciso 4 N°5;Estimacion deudores incobrables Art.31 Inciso 4 N°6;5.01.03.04
+Resultado por Venta de Cartera según registros contables;Resultado por Venta de Cartera según registros contables;Resultado por Venta de Cartera según registros contables;5.01.03.05
+Resultado por Venta de Cartera a Valor Tributario;Resultado por Venta de Cartera a Valor Tributario;Resultado por Venta de Cartera a Valor Tributario;5.01.03.06
+Ajuste por Colocaciones por efecto de Tasa Efectiva;Ajuste por Colocaciones por efecto de Tasa Efectiva;Ajuste por Colocaciones por efecto de Tasa Efectiva;5.01.03.07
+Otros agregados al resultado tributario por deudores comericales;Otros agregados al resultado tributario por deudores comericales;Otros agregados al resultado tributario por deudores comericales;5.01.03.98
+Otras deducciones al resultado tributario por deudores incobrables;Otras deducciones al resultado tributario por deudores incobrables;Otras deducciones al resultado tributario por deudores incobrables;5.01.03.99
+Corr.mon. de los bienes físicos del activo realizable (inventarios)  Art. 41 inciso 1 N°3 LIR;Corr.mon. de los bienes físicos del activo realizable (inventarios)  Art. 41 inciso 1 N°3 LIR;Corr.mon. de los bienes físicos del activo realizable (inventarios)  Art. 41 inciso 1 N°3 LIR;5.01.04.01
+Ajuste por  Valor Neto Realización;Ajuste por  Valor Neto Realización;Ajuste por  Valor Neto Realización;5.01.04.02
+Ajuste por Provision Obsolescencia;Ajuste por Provision Obsolescencia;Ajuste por Provision Obsolescencia;5.01.04.03
+Ajuste por concepto de acortamiento ;Ajuste por concepto de acortamiento ;Ajuste por concepto de acortamiento ;5.01.04.04
+Ajuste por Costo Financiero activado (Intereses activados en inventario);Ajuste por Costo Financiero activado (Intereses activados en inventario);Ajuste por Costo Financiero activado (Intereses activados en inventario);5.01.04.09
+Ajuste por CIF activados financieramente;Ajuste por CIF activados financieramente;Ajuste por CIF activados financieramente;5.01.04.05
+Costo de Ventas según registros contables;Costo de Ventas según registros contables;Costo de Ventas según registros contables;5.01.04.06
+Costo directo de bienes y servicios Art.30 LIR;Costo directo de bienes y servicios Art.30 LIR;Costo directo de bienes y servicios Art.30 LIR;5.01.04.07
+Ajuste Valor Mercado activos Biológicos;Ajuste Valor Mercado activos Biológicos;Ajuste Valor Mercado activos Biológicos;5.01.04.08
+Otros agregados al resultado tributario por inventarios;Otros agregados al resultado tributario por inventarios;Otros agregados al resultado tributario por inventarios;5.01.04.98
+Otras deducciones al resultado tributario por inventarios;Otras deducciones al resultado tributario por inventarios;Otras deducciones al resultado tributario por inventarios;5.01.04.99
+Corr.mon. de los bienes físicos del activo inmovilizado. Art. 41 inciso 1 N°2;Corr.mon. de los bienes físicos del activo inmovilizado. Art. 41 inciso 1 N°3;Corr.mon. de los bienes físicos del activo inmovilizado. Art. 41 inciso 1 N°4;5.01.05.01
+Deterioro (Impairtment) propiedad planta y equipo según registros contables  ;Deterioro (Impairtment) propiedad planta y equipo según registros contables  ;Deterioro (Impairtment) propiedad planta y equipo según registros contables  ;5.01.05.02
+Pérdida por revalorización propiedad planta y equipo según registros contables ;Pérdida por revalorización propiedad planta y equipo según registros contables ;Pérdida por revalorización propiedad planta y equipo según registros contables ;5.01.05.03
+Castigo Financiero propiedad planta y equipo  según registros contables  ;Castigo Financiero propiedad planta y equipo  según registros contables  ;Castigo Financiero propiedad planta y equipo  según registros contables  ;5.01.05.04
+Depreciación Financiera según registros contables  ;Depreciación Financiera según registros contables  ;Depreciación Financiera según registros contables  ;5.01.05.05
+Depreciación Normal bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5;Depreciación Normal bienes físicos del activo inmovilizado Art.31 Inciso 4 N°6;Depreciación Normal bienes físicos del activo inmovilizado Art.31 Inciso 4 N°7;5.01.05.06
+Depreciación Acelerada bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5;Depreciación Acelerada bienes físicos del activo inmovilizado Art.31 Inciso 4 N°6;Depreciación Acelerada bienes físicos del activo inmovilizado Art.31 Inciso 4 N°7;5.01.05.07
+Ajuste por Costo Financiero activado (Intereses activados PPE);Ajuste por Costo Financiero activado (Intereses activados PPE);Ajuste por Costo Financiero activado (Intereses activados PPE);5.01.05.08
+Utilidad por revalorización propiedad planta y equipo según registros contables ;Utilidad por revalorización propiedad planta y equipo según registros contables ;Utilidad por revalorización propiedad planta y equipo según registros contables ;5.01.05.09
+Ajuste Valor Mercado Propiedades de Inversión;Ajuste Valor Mercado Propiedades de Inversión;Ajuste Valor Mercado Propiedades de Inversión;5.01.05.10
+Ajuste Valor Mercado Activos mantenidos para la venta;Ajuste Valor Mercado Activos mantenidos para la venta;Ajuste Valor Mercado Activos mantenidos para la venta;5.01.05.11
+Ajuste Valor Mercado Activos provenientes de Intercambios de activos;Ajuste Valor Mercado Activos provenientes de Intercambios de activos;Ajuste Valor Mercado Activos provenientes de Intercambios de activos;5.01.05.12
+Provisión bienes recibidos en pago, remate judicial o de aquellos disponibles para la venta;Provisión bienes recibidos en pago, remate judicial o de aquellos disponibles para la venta;Provisión bienes recibidos en pago, remate judicial o de aquellos disponibles para la venta;5.01.05.13
+Resultado por Enajenacion de propiedad planta y equipo, Propiedades de Inversion y Activos disponibles para la venta según registros contables;Resultado por Enajenacion de propiedad planta y equipo, Propiedades de Inversion y Activos disponibles para la venta según registros contables;Resultado por Enajenacion de propiedad planta y equipo, Propiedades de Inversion y Activos disponibles para la venta según registros contables;5.01.05.14
+Resultado por Enajenacion de  bienes físicos del activo inmovilizado (valor tributario);Resultado por Enajenacion de  bienes físicos del activo inmovilizado (valor tributario);Resultado por Enajenacion de  bienes físicos del activo inmovilizado (valor tributario);5.01.05.15
+Castigo Tributario de los bienes físicos del activo inmovilizado;Castigo Tributario de los bienes físicos del activo inmovilizado;Castigo Tributario de los bienes físicos del activo inmovilizado;5.01.05.16
+Ajuste por Remodelaciones Bienes Propios;Ajuste por Remodelaciones Bienes Propios;Ajuste por Remodelaciones Bienes Propios;5.01.05.17
+Ajuste por Remodelaciones Bienes de Terceros;Ajuste por Remodelaciones Bienes de Terceros;Ajuste por Remodelaciones Bienes de Terceros;5.01.05.18
+Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 1ro (12 Meses);Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 1ro (12 Meses);Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 1ro (12 Meses);5.01.05.19
+Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 2do (1/10 Depreciacion);Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 2do (1/10 Depreciacion);Dep.Acel.bienes físicos del activo inmovilizado Art.31 Inciso 4 N°5 Bis Inciso 2do (1/10 Depreciacion);5.01.05.20
+Otros agregados o deducciones por Propiedades de Inversión;Otros agregados o deducciones por Propiedades de Inversión;Otros agregados o deducciones por Propiedades de Inversión;5.01.05.96
+Otros agregados o deducciones por activos mantenidos para la venta;Otros agregados o deducciones por activos mantenidos para la venta;Otros agregados o deducciones por activos mantenidos para la venta;5.01.05.97
+Otros agregados al resultado tributario por activo fijo;Otros agregados al resultado tributario por activo fijo;Otros agregados al resultado tributario por activo fijo;5.01.05.98
+Otras deducciones al resultado tributario por activo fijo;Otras deducciones al resultado tributario por activo fijo;Otras deducciones al resultado tributario por activo fijo;5.01.05.99
+Depreciación de activos en leasing;Depreciación de activos en leasing;Depreciación de activos en leasing;5.01.06.01
+Intereses pagados por Leasing ;Intereses pagados por Leasing ;Intereses pagados por Leasing ;5.01.06.02
+Reajustes por  Obligaciones por Leasing;Reajustes por  Obligaciones por Leasing;Reajustes por  Obligaciones por Leasing;5.01.06.03
+Reajustes por Intereses Diferidos por Leasing;Reajustes por Intereses Diferidos por Leasing;Reajustes por Intereses Diferidos por Leasing;5.01.06.04
+Cuotas pagadas por Leasing ;Cuotas pagadas por Leasing ;Cuotas pagadas por Leasing ;5.01.06.05
+Cuotas anticipadas por Leasing ;Cuotas anticipadas por Leasing ;Cuotas anticipadas por Leasing ;5.01.06.06
+Otros agregados al resultado tributario por  activos en leasing;Otros agregados al resultado tributario por  activos en leasing;Otros agregados al resultado tributario por  activos en leasing;5.01.06.98
+Otras deducciones al resultado tributario por activos en leasing;Otras deducciones al resultado tributario por activos en leasing;Otras deducciones al resultado tributario por activos en leasing;5.01.06.99
+Corr.mon. de los derechos de llave, pertenencias, concesiones mineras y otros. Art. 41 inciso 1 N°6;Corr.mon. de los derechos de llave, pertenencias, concesiones mineras y otros. Art. 41 inciso 1 N°7;Corr.mon. de los derechos de llave, pertenencias, concesiones mineras y otros. Art. 41 inciso 1 N°8;5.01.07.01
+Corr.mon. de los gastos de organización y puesta en marcha, Art. 41 inciso 1 N°7;Corr.mon. de los gastos de organización y puesta en marcha, Art. 41 inciso 1 N°8;Corr.mon. de los gastos de organización y puesta en marcha, Art. 41 inciso 1 N°9;5.01.07.02
+Corr.mon. de los costos y gastos diferidos. Art. 41 inciso 1 N°7;Corr.mon. de los costos y gastos diferidos. Art. 41 inciso 1 N°8;Corr.mon. de los costos y gastos diferidos. Art. 41 inciso 1 N°9;5.01.07.03
+Amortización de derechos de llave, pertenencias y concesiones mineras (Valor Financiero);Amortización de derechos de llave, pertenencias y concesiones mineras (Valor Financiero);Amortización de derechos de llave, pertenencias y concesiones mineras (Valor Financiero);5.01.07.04
+Amortización gastos de organización y puesta en marcha;Amortización gastos de organización y puesta en marcha;Amortización gastos de organización y puesta en marcha;5.01.07.05
+Amortizacion de los costos y gastos diferidos. Art. 41 inciso 1 N°7;Amortizacion de los costos y gastos diferidos. Art. 41 inciso 1 N°8;Amortizacion de los costos y gastos diferidos. Art. 41 inciso 1 N°9;5.01.07.06
+Otros agregados al resultado tributario por intangibles;Otros agregados al resultado tributario por intangibles;Otros agregados al resultado tributario por intangibles;5.01.07.98
+Otras deducciones al resultado tributario por intangibles;Otras deducciones al resultado tributario por intangibles;Otras deducciones al resultado tributario por intangibles;5.01.07.99
+Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°8;Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°9;Corr.mon. de las acciones de sociedades anónimas (SPA, FIP)  Art. 41 inciso 1 N°10;5.01.08.01
+Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°9;Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°10;Corr.mon. de los aportes en sociedades de personas. Art. 41 inciso 1 N°11;5.01.08.02
+Corr.Mon.derechos Moneda Extranjera art.41 N°4  (agencias);Corr.Mon.derechos Moneda Extranjera art.41 N°4  (agencias);Corr.Mon.derechos Moneda Extranjera art.41 N°4  (agencias);5.01.08.03
+Resultado devengado en sociedades situadas en Chile;Resultado devengado en sociedades situadas en Chile;Resultado devengado en sociedades situadas en Chile;5.01.08.04
+Resultado devengado en sociedades situadas en el Exterior;Resultado devengado en sociedades situadas en el Exterior;Resultado devengado en sociedades situadas en el Exterior;5.01.08.05
+Resultado devengado en Agencia u otro establecimiento permanente;Resultado devengado en Agencia u otro establecimiento permanente;Resultado devengado en Agencia u otro establecimiento permanente;5.01.08.06
+Resultado por Enajenación Inversiones en otras Entidades según registros contables ;Resultado por Enajenación Inversiones en otras Entidades según registros contables ;Resultado por Enajenación Inversiones en otras Entidades según registros contables ;5.01.08.07
+Resultado por Enajenación Inversiones en otras Entidades a Valor Tributario;Resultado por Enajenación Inversiones en otras Entidades a Valor Tributario;Resultado por Enajenación Inversiones en otras Entidades a Valor Tributario;5.01.08.08
+Otros agregados al resultado tributario por Inversiones en otras Entidades;Otros agregados al resultado tributario por Inversiones en otras Entidades;Otros agregados al resultado tributario por Inversiones en otras Entidades;5.01.08.98
+Otras deducciones al resultado tributario por inversiones en otras Entidades;Otras deducciones al resultado tributario por inversiones en otras Entidades;Otras deducciones al resultado tributario por inversiones en otras Entidades;5.01.08.99
+Deteriorio por Goodwill;Deteriorio por Goodwill;Deteriorio por Goodwill;5.01.09.01
+Corr.Mon.Goodwill en relacion Art.31 inciso 4 N°9 ;Corr.Mon.Goodwill en relacion Art.31 inciso 4 N°10;Corr.Mon.Goodwill en relacion Art.31 inciso 4 N°11;5.01.09.02
+Amortización menor valor tributario en fusión Art.31 inciso 4 N°9;Amortización menor valor tributario en fusión Art.31 inciso 4 N°10;Amortización menor valor tributario en fusión Art.31 inciso 4 N°11;5.01.09.03
+Corr.Mon.Mayor valor tributario en fusión Art.15;Corr.Mon.Mayor valor tributario en fusión Art.16;Corr.Mon.Mayor valor tributario en fusión Art.17;5.01.09.04
+Ingreso por mayor valor tributario en fusión Art.15;Ingreso por mayor valor tributario en fusión Art.16;Ingreso por mayor valor tributario en fusión Art.17;5.01.09.05
+Corr.Mon. Intangible por Goodwill en relacion Art.31 inciso 4 N°9 (Ley 20.780);Corr.Mon. Intangible por Goodwill en relacion Art.31 inciso 4 N°9 (Ley 20.780);Corr.Mon. Intangible por Goodwill en relacion Art.31 inciso 4 N°9 (Ley 20.780);5.01.09.06
+Otros agregados al resultado tributario por Goodwil y/o Badwill;Otros agregados al resultado tributario por Goodwil y/o Badwill;Otros agregados al resultado tributario por Goodwil y/o Badwill;5.01.09.98
+Otras deducciones al resultado tributario por Goodwil y/o Badwill;Otras deducciones al resultado tributario por Goodwil y/o Badwill;Otras deducciones al resultado tributario por Goodwil y/o Badwill;5.01.09.99
+Corr.mon. de los bienes físicos del activo inmovilizado (entregados en leasing) . Art. 41 inciso 1 N°2;Corr.mon. de los bienes físicos del activo inmovilizado (entregados en leasing) . Art. 41 inciso 1 N°3;Corr.mon. de los bienes físicos del activo inmovilizado (entregados en leasing) . Art. 41 inciso 1 N°4;5.01.10.01
+Ingreso por cuotas percibidas por leasing;Ingreso por cuotas percibidas por leasing;Ingreso por cuotas percibidas por leasing;5.01.10.02
+Ingreso por cuotas devengadas por leasing;Ingreso por cuotas devengadas por leasing;Ingreso por cuotas devengadas por leasing;5.01.10.03
+Ingreso por Intereses por leasing según registros contables;Ingreso por Intereses por leasing según registros contables;Ingreso por Intereses por leasing según registros contables;5.01.10.04
+Ingreso Tributario por Seguros Devengados por Bienes Siniestrados ;Ingreso Tributario por Seguros Devengados por Bienes Siniestrados ;Ingreso Tributario por Seguros Devengados por Bienes Siniestrados ;5.01.10.05
+Resultado por reajustes por leasing según registros contables;Resultado por reajustes por leasing según registros contables;Resultado por reajustes por leasing según registros contables;5.01.10.06
+Estimación deudores incobrables por leasing;Estimación deudores incobrables por leasing;Estimación deudores incobrables por leasing;5.01.10.07
+Depreciación Normal bienes entregados en  leasing (valor tributario);Depreciación Normal bienes entregados en  leasing (valor tributario);Depreciación Normal bienes entregados en  leasing (valor tributario);5.01.10.08
+Depreciación Acelerada bienes entregados en  leasing (valor tributario);Depreciación Acelerada bienes entregados en  leasing (valor tributario);Depreciación Acelerada bienes entregados en  leasing (valor tributario);5.01.10.09
+Otros ingresos por leasing según registros contables;Otros ingresos por leasing según registros contables;Otros ingresos por leasing según registros contables;5.01.10.10
+Costo Venta Bienes entregados en Leasing  (al término del contrato);Costo Venta Bienes entregados en Leasing  (al término del contrato);Costo Venta Bienes entregados en Leasing  (al término del contrato);5.01.10.11
+Costo Venta Bienes entregados en Leasing (anticipado o cedido);Costo Venta Bienes entregados en Leasing (anticipado o cedido);Costo Venta Bienes entregados en Leasing (anticipado o cedido);5.01.10.12
+Gastos relacionados con Leasing, (Notariales, seguros, entre otros);Gastos relacionados con Leasing, (Notariales, seguros, entre otros);Gastos relacionados con Leasing, (Notariales, seguros, entre otros);5.01.10.13
+Otros agregados al resultado tributario por  bienes entregados  en leasing;Otros agregados al resultado tributario por  bienes entregados  en leasing;Otros agregados al resultado tributario por  bienes entregados  en leasing;5.01.10.98
+Otras deducciones al resultado tributario por activos bienes entregados en leasing;Otras deducciones al resultado tributario por activos bienes entregados en leasing;Otras deducciones al resultado tributario por activos bienes entregados en leasing;5.01.10.99
+Ajuste tasa efectiva en obligaciones con bancos;Ajuste tasa efectiva en obligaciones con bancos;Ajuste tasa efectiva en obligaciones con bancos;5.01.11.01
+Gastos diferidos por obligaciones con bancos;Gastos diferidos por obligaciones con bancos;Gastos diferidos por obligaciones con bancos;5.01.11.02
+Menor Valor en Colocacion de Bonos;Menor Valor en Colocacion de Bonos;Menor Valor en Colocacion de Bonos;5.01.11.03
+Corrección monetaria Menor Valor Bonos;Corrección monetaria Menor Valor Bonos;Corrección monetaria Menor Valor Bonos;5.01.11.04
+Amortizacion Menor Valor Bonos;Amortizacion Menor Valor Bonos;Amortizacion Menor Valor Bonos;5.01.11.05
+Gastos diferidos por Colocacion de Bonos;Gastos diferidos por Colocacion de Bonos;Gastos diferidos por Colocacion de Bonos;5.01.11.06
+Corrección monetaria Gastos Diferidos por Colocacion de Bonos;Corrección monetaria Gastos Diferidos por Colocacion de Bonos;Corrección monetaria Gastos Diferidos por Colocacion de Bonos;5.01.11.07
+Amortización Gastos diferidos por Colocacion de Bonos;Amortización Gastos diferidos por Colocacion de Bonos;Amortización Gastos diferidos por Colocacion de Bonos;5.01.11.08
+Ajuste a Valor de Mercado por Bonos emitidos ;Ajuste a Valor de Mercado por Bonos emitidos ;Ajuste a Valor de Mercado por Bonos emitidos ;5.01.11.09
+Intereses Financieros por Bonos Emitidos;Intereses Financieros por Bonos Emitidos;Intereses Financieros por Bonos Emitidos;5.01.11.10
+Intereses a Valor Tributario por Bonos Emitidos;Intereses a Valor Tributario por Bonos Emitidos;Intereses a Valor Tributario por Bonos Emitidos;5.01.11.11
+Otros agregados al resultado tributario por bonos emitidos;Otros agregados al resultado tributario por bonos emitidos;Otros agregados al resultado tributario por bonos emitidos;5.01.11.98
+Otros deducciones al resultado tributario por bonos emitidos;Otros deducciones al resultado tributario por bonos emitidos;Otros deducciones al resultado tributario por bonos emitidos;5.01.11.99
+Provisión Impuesto Renta 1a Categoría;Provisión Impuesto Renta 1a Categoría;Provisión Impuesto Renta 1a Categoría;5.01.12.01
+Provisión Impuesto Único Artículo 21 (40%);Provisión Impuesto Único Artículo 21 (40%);Provisión Impuesto Único Artículo 21 (40%);5.01.12.02
+Provisión Impuesto a la actividad Minera;Provisión Impuesto a la actividad Minera;Provisión Impuesto a la actividad Minera;5.01.12.03
+Provisión Impuesto Único Empresa Estatal;Provisión Impuesto Único Empresa Estatal;Provisión Impuesto Único Empresa Estatal;5.01.12.04
+Impuesto Diferido ;Impuesto Diferido ;Impuesto Diferido ;5.01.12.06
+Otras Provisiones por Impuestos;Otras Provisiones por Impuestos;Otras Provisiones por Impuestos;5.01.12.99
+Provisión Vacaciones ;Provisión Vacaciones ;Provisión Vacaciones ;5.01.13.01
+Provisión Gratificaciones;Provisión Gratificaciones;Provisión Gratificaciones;5.01.13.02
+Indemnización años de Servicios  Valor Financiero;Indemnización años de Servicios  Valor Financiero;Indemnización años de Servicios  Valor Financiero;5.01.13.03
+Indemnización años de Servicios  Valor Tributario;Indemnización años de Servicios  Valor Tributario;Indemnización años de Servicios  Valor Tributario;5.01.13.04
+Provisión por Bonos Metas, Bono Eficiencia, (entre otros);Provisión por Bonos Metas, Bono Eficiencia, (entre otros);Provisión por Bonos Metas, Bono Eficiencia, (entre otros);5.01.13.05
+Pagos Basados en Acciones;Pagos Basados en Acciones;Pagos Basados en Acciones;5.01.13.06
+Provisiones por Beneficios Definidos;Provisiones por Beneficios Definidos;Provisiones por Beneficios Definidos;5.01.13.98
+Otras Provisiones por Beneficios Empleados;Otras Provisiones por Beneficios Empleados;Otras Provisiones por Beneficios Empleados;5.01.13.99
+Provisión Gastos Por Pagar;Provisión Gastos Por Pagar;Provisión Gastos Por Pagar;5.01.14.01
+Provisión Otras Eventualidades ;Provisión Otras Eventualidades ;Provisión Otras Eventualidades ;5.01.14.02
+Provisión Juicio Laboral;Provisión Juicio Laboral;Provisión Juicio Laboral;5.01.14.03
+Provisiones Adicionales;Provisiones Adicionales;Provisiones Adicionales;5.01.14.04
+Provisiones Riesgo Pais;Provisiones Riesgo Pais;Provisiones Riesgo Pais;5.01.14.05
+Otras Provisiones;Otras Provisiones;Otras Provisiones;5.01.14.99
+Corr.mon. del capital propio, Art. 41 inciso 1 N°1;Corr.mon. del capital propio, Art. 41 inciso 1 N°2;Corr.mon. del capital propio, Art. 41 inciso 1 N°3;5.01.15.01
+Corr.mon. del capital propio, aumentos Art. 41 inciso 1 N°1;Corr.mon. del capital propio, aumentos Art. 41 inciso 1 N°2;Corr.mon. del capital propio, aumentos Art. 41 inciso 1 N°3;5.01.15.02
+Corr.mon. del capital propio, disminuciones de capital. Art. 41 inciso 1 N°1;Corr.mon. del capital propio, disminuciones de capital. Art. 41 inciso 1 N°2;Corr.mon. del capital propio, disminuciones de capital. Art. 41 inciso 1 N°3;5.01.15.03
+Resultado por contrato de Promesa de Venta según registro contable;Resultado por contrato de Promesa de Venta según registro contable;Resultado por contrato de Promesa de Venta según registro contable;5.01.20.01
+Resultado por contrato de Suma Alzada según registro contable;Resultado por contrato de Suma Alzada según registro contable;Resultado por contrato de Suma Alzada según registro contable;5.01.20.02
+Resultado por contrato de Obra de uso público según registro contable;Resultado por contrato de Obra de uso público según registro contable;Resultado por contrato de Obra de uso público según registro contable;5.01.20.03
+Resultado por contrato de Promesa de Venta a valor tributario;Resultado por contrato de Promesa de Venta a valor tributario;Resultado por contrato de Promesa de Venta a valor tributario;5.01.20.04
+Resultado por contrato de Suma Alzada a valor tributario;Resultado por contrato de Suma Alzada a valor tributario;Resultado por contrato de Suma Alzada a valor tributario;5.01.20.05
+Resultado por contrato de Obra de uso público a valor tributario;Resultado por contrato de Obra de uso público a valor tributario;Resultado por contrato de Obra de uso público a valor tributario;5.01.20.06
+Otros agregados al resultado tributario por contratos de construcción;Otros agregados al resultado tributario por contratos de construcción;Otros agregados al resultado tributario por contratos de construcción;5.01.20.98
+Otras deducciones al resultado tributario por contrato de construcción;Otras deducciones al resultado tributario por contrato de construcción;Otras deducciones al resultado tributario por contrato de construcción;5.01.20.99
+INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;5.03.01.01
+INR por enajenación de valores Art.107 LIR ;INR por enajenación de valores Art.107 LIR ;INR por enajenación de valores Art.107 LIR ;5.03.01.02
+INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°2;INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°3;INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°4;5.03.01.03
+Costo Directo INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;Costo Directo INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;Costo Directo INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;5.03.01.04
+Costo Directo INR por enajenación de valores Art.107 LIR ;Costo Directo INR por enajenación de valores Art.107 LIR ;Costo Directo INR por enajenación de valores Art.107 LIR ;5.03.01.05
+Costo Directo INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°2;Costo Directo INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°3;Costo Directo INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°4;5.03.01.06
+Gastos Utilización Común INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;Gastos Utilización Común INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;Gastos Utilización Común INR por enajenación de instrumentos de deuda de oferta pública Art.104 LIR ;5.03.01.07
+Gastos Utilización Común INR por enajenación de valores Art.107 LIR ;Gastos Utilización Común INR por enajenación de valores Art.107 LIR ;Gastos Utilización Común INR por enajenación de valores Art.107 LIR ;5.03.01.08
+Gastos Utilización Común INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°2;Gastos Utilización Común INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°3;Gastos Utilización Común INR provenientes de la explotación de bienes raices no agricolas D.F.L.N°4;5.03.01.09
+Otros INR;Otros INR;Otros INR;5.03.01.10
+Otros Costos Directos INR;Otros Costos Directos INR;Otros Costos Directos INR;5.03.01.98
+Otros Gastos Utilización Común;Otros Gastos Utilización Común;Otros Gastos Utilización Común;5.03.01.99
+Rentas o ingresos exentos de primera categoría;Rentas o ingresos exentos de primera categoría;Rentas o ingresos exentos de primera categoría;5.03.02.01
+Costos directos asociados a REX de primera categoría;Costos directos asociados a REX de primera categoría;Costos directos asociados a REX de primera categoría;5.03.02.02
+Gastos Utilización Común a REX;Gastos Utilización Común a REX;Gastos Utilización Común a REX;5.03.02.03
+Corr.mon. de los créditos o derechos en moneda extranjera o reajustables. Art. 41 inciso 1 N°4;Corr.mon. de los créditos o derechos en moneda extranjera o reajustables. Art. 41 inciso 1 N°5;Corr.mon. de los créditos o derechos en moneda extranjera o reajustables. Art. 41 inciso 1 N°6;5.03.04.01
+Corr.mon. de monedas extranjeras y de oro. Art. 41 inciso 1 N°5;Corr.mon. de monedas extranjeras y de oro. Art. 41 inciso 1 N°6;Corr.mon. de monedas extranjeras y de oro. Art. 41 inciso 1 N°7;5.03.04.02
+Corr.mon. de deudas u obligaciones en moneda extranjera o reajustables. Art. 41 inciso 1 N°10;Corr.mon. de deudas u obligaciones en moneda extranjera o reajustables. Art. 41 inciso 1 N°11;Corr.mon. de deudas u obligaciones en moneda extranjera o reajustables. Art. 41 inciso 1 N°12;5.03.04.03
+Corrección monetaria cierre de faenas mineras (Ley 20.551);Corrección monetaria cierre de faenas mineras (Ley 20.551);Corrección monetaria cierre de faenas mineras (Ley 20.551);5.03.04.04
+Ingresos de explotación Artículos 15 / 29 LIR  ( Valor Tributario);Ingresos de explotación Artículos 15 / 29 LIR  ( Valor Tributario);Ingresos de explotación Artículos 15 / 29 LIR  ( Valor Tributario);5.03.04.05
+PPUA  ;PPUA  ;PPUA  ;5.03.04.06
+Deduccion 50% RLI (14 ter letra C);Deduccion 50% RLI (14 ter letra C);Deduccion 50% RLI (14 ter letra C);5.03.04.20
+Reposición 14 ter letra C);Reposición 14 ter letra C);Reposición 14 ter letra C);5.03.04.21
+Rentas Pasivas devengadas;Rentas Pasivas devengadas;Rentas Pasivas devengadas;5.03.04.40
+Otros agregados al resultado tributario ;Otros agregados al resultado tributario ;Otros agregados al resultado tributario ;5.03.04.98
+Otras deducciones al resultado tributario ;Otras deducciones al resultado tributario ;Otras deducciones al resultado tributario ;5.03.04.99
+Contribuciones Bienes Raices;Contribuciones Bienes Raices;Contribuciones Bienes Raices;5.03.05.01
+Gastos No Documentados;Gastos No Documentados;Gastos No Documentados;5.03.05.02
+Gastos por Donaciones Rechazadas;Gastos por Donaciones Rechazadas;Gastos por Donaciones Rechazadas;5.03.05.04
+Gastos por Automóvil, Station Wagon y Similares;Gastos por Automóvil, Station Wagon y Similares;Gastos por Automóvil, Station Wagon y Similares;5.03.05.05
+Gasto por Intereses, Reajustes y Multas Fiscales;Gasto por Intereses, Reajustes y Multas Fiscales;Gasto por Intereses, Reajustes y Multas Fiscales;5.03.05.13
+Gasto por 'Impuesto de Primera Categoría;Gasto por 'Impuesto de Primera Categoría;Gasto por 'Impuesto de Primera Categoría;5.03.05.14
+Gasto por 'Reajustes Art.72 LIR;Gasto por 'Reajustes Art.72 LIR;Gasto por 'Reajustes Art.72 LIR;5.03.05.15
+Otras partidas  que disminuyeron la renta líquida declarada clasificados en la letra b) a g) del N°1 art 33 LIR;Otras partidas  que disminuyeron la renta líquida declarada clasificados en la letra b) a g) del N°1 art 33 LIR;Otras partidas  que disminuyeron la renta líquida declarada clasificados en la letra b) a g) del N°1 art 33 LIR;5.03.05.98
+Otras Partidas segun inciso 2° art 21 LIR;Otras Partidas segun inciso 2° art 21 LIR;Otras Partidas segun inciso 2° art 21 LIR;5.03.05.99
+Pérdida Tributaria de Arrastre actualizada ;Pérdida Tributaria de Arrastre actualizada ;Pérdida Tributaria de Arrastre actualizada ;5.04.01.01

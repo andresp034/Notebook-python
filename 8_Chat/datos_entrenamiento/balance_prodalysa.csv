@@ -1,0 +1,175 @@
+﻿id_cliente;id_estandar;nombre_estandar;nombre_cliente;activo;pasivo;perdida;ganancia
+1111001;1.01.01.00;Disponible;CAJA; 52.880 ;                             - ;                             - ;                             - 
+1112001;1.01.01.00;Disponible;BANCO SANTANDER; 392.166.392 ;                             - ;                             - ;                             - 
+1112002;1.01.01.00;Disponible;BANCO DE CHILE; 149.383.974 ;                             - ;                             - ;                             - 
+1112003;1.01.01.00;Disponible;BANCO INTERANCIONAL; 4.691.697 ;                             - ;                             - ;                             - 
+1112004;1.01.01.00;Disponible;BANCO SECURITY; 2.313.135 ;                             - ;                             - ;                             - 
+1113001;1.01.01.00;Disponible;BANCO SANTANDER (USD); 15.720.697 ;                             - ;                             - ;                             - 
+1113002;1.01.01.00;Disponible;BANCO DE CHILE (USD); 30.185.131 ;                             - ;                             - ;                             - 
+1123001;1.01.30.00;Deudores varios;INTERESES DIFERIDOS OBLIG. BANCARIAS MONEDA NACIONAL (CLP); 54.352.830 ;                             - ;                             - ;                             - 
+1141001;1.01.20.00;Deudores por venta, neto (excluye deudores por leasing);CLIENTES NACIONALES; 178.322.823 ;                             - ;                             - ;                             - 
+1141002;1.01.20.00;Deudores por venta, neto (excluye deudores por leasing);CLIENTES EXTRANJEROS; 107.840.892 ;                             - ;                             - ;                             - 
+1143001;1.03.25.00;Anticipo a proveedores;ANTICIPO A PROVEEDORES NACIONALES (CLP); 1.725.541 ;                             - ;                             - ;                             - 
+1143002;1.03.25.00;Anticipo a proveedores;ANTICIPO A PROVEEDORES EXTRANJEROS (USD); 111.187.864 ;                             - ;                             - ;                             - 
+1144001;1.01.99.00;Otros activos corrientes;FONDOS POR RENDIR; 1.098.312 ;                             - ;                             - ;                             - 
+1144002;1.03.24.00;Anticipo y préstamos a los empleados;ANTICIPOS AL PERSONAL; 420.000 ;                             - ;                             - ;                             - 
+1144003;1.03.24.00;Anticipo y préstamos a los empleados;ANTICIPOS HONORARIOS; 50.000 ;                             - ;                             - ;                             - 
+1144004;1.03.24.00;Anticipo y préstamos a los empleados;PRESTAMOS AL PERSONAL; 9.411.179 ;                             - ;                             - ;                             - 
+1144005;1.01.99.00;Otros activos corrientes;ASIGNACION FAMILIAR; 133.714 ;                             - ;                             - ;                             - 
+1144006;1.01.99.00;Otros activos corrientes;ANTICIPO A AGENTE DE ADUANAS; 391.977 ;                             - ;                             - ;                             - 
+1145002;1.01.99.00;Otros activos corrientes;ESTIMACION DE DEUDORES INCOBRABLES INTERNACIONALES;                             - ; 103.640.284 ;                             - ;                             - 
+1151001;1.01.40.00;Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS POR COBRAR EERR CLP; 85.979.786 ;                             - ;                             - ;                             - 
+1151002;1.01.41.00;Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil);CUENTAS POR COBRAR EERR USD;325.078.866;                            -;                            -;                            -
+1161001;1.01.50.00;Existencias, neto;PRODUCTOS TERMINADOS STEVIA;406.580.952;                            -;                            -;                            -
+1161002;1.01.50.00;Existencias, neto;PRODUCTOS TERMINADOS OTRAS LINEAS;68.237;                            -;                            -;                            -
+1162001;1.01.50.00;Existencias, neto;MATERIA PRIMA LINEA STEVIA;176.287.848;                            -;                            -;                            -
+1162002;1.01.50.00;Existencias, neto;MATERIA PRIMA OTROS PRODUCTOS;63.154.407;                            -;                            -;                            -
+1162003;1.01.50.00;Existencias, neto;MATERIAL DE EMBALAJE;4.473.997;                            -;                            -;                            -
+1163001;1.01.50.00;Existencias, neto;PRODUCTOS EN PROCESO;                            -;3.000.247;                            -;                            -
+1163002;1.01.50.00;Existencias, neto;PRODUCTOS INTERMEDIOS;43.737.390;                            -;                            -;                            -
+1171002;1.01.99.00;Otros activos corrientes;PAGOS PROVISIONALES MENSUALES (PPM);20.153.067;                            -;                            -;                            -
+1171006;1.01.62.00;Otros Créditos por recuperar;REMANENTE CREDITO FISCAL;22.007.308;                            -;                            -;                            -
+1181001;1.01.59.00;IVA Crédito Fiscal;IVA CREDITO FISCAL;                            -;                            -;                            -;                            -
+1181005;1.01.60.00;Impuestos por recuperar;IMPUESTOS POR RECUPERAR;                            -;                            -;                            -;                            -
+1213001;1.01.99.00;Otros activos corrientes;INTERESES DIFERIDOS OBLIG. BANCARIAS MONEDA NACIONAL (CLP);39.487.492;                            -;                            -;                            -
+1222001;1.01.99.00;Otros activos corrientes;BOLETAS EN GARANTIA;382.171.250;                            -;                            -;                            -
+1222002;1.01.99.00;Otros activos corrientes;ARRIENDOS EN GARANTIA;2.975.348;                            -;                            -;                            -
+1251001;1.02.25.00;Software;SOFTWARE Y LICENCIAS;1.242.000;                            -;                            -;                            -
+1253002;1.02.99.00;Otros Bienes Propiedad Planta y Equipo;OTROS ACTIVOS INTANGIBLES;16.937.351;                            -;                            -;                            -
+1271001;1.02.11.00;Terrenos;TERRENOS;408.000.000;                            -;                            -;                            -
+1271002;1.02.12.00;Construcción y obras de infraestructura;EDIFICIO Y CONSTRUCCIONES;1.243.743.942;                            -;                            -;                            -
+1271003;1.02.12.00;Construcción y obras de infraestructura;INSTALACIONES;44.532.050;                            -;                            -;                            -
+1271004;1.02.13.00;Maquinarias y equipos;MAQUINARIA Y EQUIPOS;816.776.898;                            -;                            -;                            -
+1271005;1.02.15.00;Equipos Computacionales y similares;EQUIPOS COMPUTACIONALES;3.206.683;                            -;                            -;                            -
+1271006;1.02.14.00;Muebles y utiles;MUEBLES Y UTILES;23.754.260;                            -;                            -;                            -
+1271007;1.02.30.00;Activos en Leasing;VEHICULOS EN LEASING;13.984.666;                            -;                            -;                            -
+1271008;1.02.15.00;Equipos Computacionales y similares;EQUIPOS DE LABORATORIO;2.923.393;                            -;                            -;                            -
+1271009;1.02.14.00;Muebles y utiles;HERRAMIENTAS Y OTROS SIMILARES;55.949.240;                            -;                            -;                            -
+1271010;1.02.30.00;Activos en Leasing;OTROS ACTIVOS FIJOS EN LEASING;1.154.988.762;                            -;                            -;                            -
+1271011;1.02.12.00;Construcción y obras de infraestructura;ACTIVOS FIJOS EN CONSTRUCCION;284.239.896;                            -;                            -;                            -
+1271012;1.02.12.00;Construcción y obras de infraestructura;PLANTA PRODUCTIVA;2.852.239.555;                            -;                            -;                            -
+1271013;1.02.30.00;Activos en Leasing;ACTIVOS FIJOS EX LEASING;47.614.649;                            -;                            -;                            -
+1272001;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM EDIFICIO Y CONSTRUCCIONES;                            -;529.878.514;                            -;                            -
+1272002;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM INSTALACIONES;                            -;40.390.771;                            -;                            -
+1272003;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM MAQUINARIAS Y EQUIPOS;                            -;414.962.939;                            -;                            -
+1272004;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM EQUIPOS COMPUTACIONALES;                            -;1.445.801;                            -;                            -
+1272005;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM MUEBLES Y UTILES;                            -;18.533.641;                            -;                            -
+1272006;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM VEHICULOS;                            -;13.984.665;                            -;                            -
+1272007;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM EQUIPOS DE LABORATORIO;                            -;1.045.943;                            -;                            -
+1272008;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM HERRAMIENTAS Y OTROS SIMILARES;                            -;47.437.518;                            -;                            -
+1272010;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);DEPREC ACUM PLANTA PRODUCTIVA;                            -;1.188.456.844;                            -;                            -
+1272011;1.02.95.00;Depreciación Acumulada Activos en Leasing;DEPREC ACUM ACTIVOS FIJOS EN LEASING;                            -;61.220.070;                            -;                            -
+1272012;1.02.99.00;Otros Bienes Propiedad Planta y Equipo;DEPREC ACUM EX LEASING;                            -;28.002.381;                            -;                            -
+1310001;1.03.50.00;Impuestos diferidos ;ACTIVOS POR IMPUESTOS DIFERIDOS;108.751.183;                            -;                            -;                            -
+1410001;1.01.62.00;Otros Créditos por recuperar;CREDITO I+D;199.653.748;                            -;                            -;                            -
+1410002;1.01.99.00;Otros activos corrientes;GASTOS POR IMPUTAR PROYECTOS;181.425.457;                            -;                            -;                            -
+2111001;2.01.01.00;Obligaciones con bancos e instituciones financieras ;PRESTAMOS BANCARIOS CORRIENTES;                            -;156.395.769;                            -;                            -
+2111002;2.01.04.00;Obligaciones por Leasing;LEASING BANCARIO CORRIENTE;                            -;290.438.049;                            -;                            -
+2111003;2.01.01.00;Obligaciones con bancos e instituciones financieras ;LINEA DE CREDITO BANCO SANTANDER;                            -;                            -;                            -;                            -
+2111004;2.01.01.00;Obligaciones con bancos e instituciones financieras ;LINEA DE CREDITO BANCO DE CHILE;                            -;                            -;                            -;                            -
+2111005;2.01.01.00;Obligaciones con bancos e instituciones financieras ;LINEA DE CREDITO BANCO INTERNACIONAL;                            -;                            -;                            -;                            -
+2131001;2.01.11.00;Proveedores por Pagar;PROVEEDORES NACIONALES;                            -;25.601.491;                            -;                            -
+2131002;2.01.11.00;Proveedores por Pagar;PROVEEDORES EXTRANJEROS;                            -;                            -;                            -;                            -
+2131004;2.01.14.00;Documentos por pagar;FACTURAS POR RECIBIR;                            -;                            -;                            -;                            -
+2131005;2.01.14.00;Documentos por pagar;FACTURAS POR RECIBIR IMPORTACIONES;                            -;                            -;                            -;                            -
+2132001;2.01.14.00;Documentos por pagar;DOCUMENTOS POR PAGAR CORRIENTES;                            -;94.662.297;                            -;                            -
+2133001;2.01.99.00;Otros pasivos Corrientes;REMUNERACIONES POR PAGAR;                            -;28.489.589;                            -;                            -
+2133002;2.01.99.00;Otros pasivos Corrientes;HONORARIOS POR PAGAR (CLP);                            -;1.100.000;                            -;                            -
+2133008;2.01.99.00;Otros pasivos Corrientes;ANTICIPO DE CLIENTES NACIONALES (CLP);                            -;108.885;                            -;                            -
+2133009;2.01.99.00;Otros pasivos Corrientes;ANTICIPO DE CLIENTES EXTRANJEROS (USD);                            -;                            -;                            -;                            -
+2134001;2.01.55.00;Retenciones por Pagar;PREVISION POR PAGAR;                            -;8.381.654;                            -;                            -
+2140002;2.01.99.00;Otros pasivos Corrientes;CUENTAS POR PAGAR HOLDINGSTEVIA;                            -;                            -;                            -;                            -
+2140006;2.01.99.00;Otros pasivos Corrientes;CUENTAS POR PAGAR AGROSTEVIA;                            -;115.585.391;                            -;                            -
+2140007;2.01.99.00;Otros pasivos Corrientes;CUENTAS POR PAGAR HS GROWERS;                            -;48.745.576;                            -;                            -
+2161001;2.01.99.00;Otros pasivos Corrientes;PROVISION PPM;                            -;1.370.566;                            -;                            -
+2161002;2.01.60.00;Impuesto a la renta por Pagar;PROVISION IMPTO RENTA 1ª CATEG.;                            -;                            -;                            -;                            -
+2161004;2.01.54.00;Otras Provisiones;PROVISIONES VARIAS;                            -;613.196;                            -;                            -
+2171001;2.01.59.00;IVA Débito Fiscal ;IVA DEBITO FISCAL;                            -;                            -;                            -;                            -
+2171002;2.01.55.00;Retenciones por Pagar;RETENCION 10% PROFESIONALES;                            -;724.787;                            -;                            -
+2171004;2.01.55.00;Retenciones por Pagar;RETENCION IMPUESTO UNICO TRABAJADORES;                            -;1.378.214;                            -;                            -
+2171005;2.01.61.00;Otros Impuestos por Pagar;IMPUESTOS POR PAGAR;                            -;13.446.110;                            -;                            -
+2181002;2.01.51.00;Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados;PROVISION VACACIONES;                            -;89.521.110;                            -;                            -
+2192002;2.01.99.00;Otros pasivos Corrientes;SUBSIDIO INNOVA CONTEC;                            -;                            -;                            -;                            -
+2211001;2.02.01.00;Obligaciones con bancos e instituciones financieras ;PRESTAMOS BANCARIOS NO CORRIENTES;                            -;290.100.685;                            -;                            -
+2211002;2.02.01.00;Obligaciones con bancos e instituciones financieras ;OBLIGACIONES LEASING NO CORRIENTES;                            -;496.544.032;                            -;                            -
+2231004;2.02.03.00;Documentos por pagar largo plazo;DOCUMENTOS POR PAGAR NO CORRIENTES;                            -;189.324.594;                            -;                            -
+2241001;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR A CHILQUIMAR NO CORRIENTE;5.359.596;                            -;                            -;                            -
+2241002;2.02.03.00;Documentos por pagar largo plazo;CUENTAS POR PAGAR HOLDINGSTEVIA NO CORRIENTE;                            -;74.350.443;                            -;                            -
+2241003;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR JOHN ALARCON NO CORRIENTE;                            -;4.993.299;                            -;                            -
+2241004;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR JAVIER SAINZ NO CORRIENTE;                            -;5.722.925;                            -;                            -
+2241005;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR PEDRO SAINZ NO CORRIENTE;                            -;179.242.310;                            -;                            -
+2241006;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR GRUPO AZUCARERO MEXICO NO CORRIENTE;                            -;206.736.353;                            -;                            -
+2241007;2.02.03.00;Documentos por pagar largo plazo;CUENTA POR PAGAR GAM CHILE NO CORRIENTE;                            -;1.673.756.299;                            -;                            -
+2261001;2.02.07.00;Impuestos diferidos ;PASIVOS POR IMPUESTOS DIFERIDOS;                            -;22.889.087;                            -;                            -
+2262001;2.02.99.00;Otros pasivos NO Corrientes;INGRESOS DIFERIDOS CRÉDITO I+D;                            -;199.653.748;                            -;                            -
+2281002;2.02.99.00;Otros pasivos NO Corrientes;BOLETAS EN GARANTIAS NO CORRIENTES;                            -;382.171.250;                            -;                            -
+2281003;2.02.99.00;Otros pasivos NO Corrientes;INGRESO DIFERIDO ALTA TECNOLOGÍA NO CORRIENTE;                            -;181.425.457;                            -;                            -
+2281004;2.02.99.00;Otros pasivos NO Corrientes;INGRESO DIFERIDO INNOVA CONTEC NO CORRIENTE;                            -;                            -;                            -;                            -
+3111001;2.03.01.00;Capital pagado;CAPITAL PAGADO;                            -;2.667.619.530;                            -;                            -
+3161001;2.03.06.00;Utilidades acumuladas;RESULTADOS ACUMULADOS;                            -;23.597.653;                            -;                            -
+3171001;2.03.06.00;Utilidades acumuladas;UTILIDAD (PERDIDA) DEL EJERCICIO;                            -;                            -;                            -;                            -
+3171002;2.03.04.00;Otras reservas;CUENTA DE CIERRE EJERCICIO;                            -;                            -;                            -;                            -
+4111001;3.01.01.00;Ingresos de explotación;VENTAS NACIONALES;                            -;                            -;                            -;1.861.318.786
+4111002;3.01.01.00;Ingresos de explotación;VENTAS EXTRANJERAS (USD);                            -;                            -;                            -;131.991.424
+4111003;3.01.01.00;Ingresos de explotación;VENTAS EMPRESAS RELACIONADAS;                            -;                            -;                            -;184.877.753
+4112001;3.01.01.00;Ingresos de explotación;VENTAS NACIONALES OTROS PRODUCTOS;                            -;                            -;                            -;292.745.253
+5111001;3.01.02.00;Costos de explotación ;COSTO DE VENTAS;                            -;                            -;1.113.221.782;                            -
+5112001;3.05.10.00;Otros egresos fuera de la explotación ;COSTOS MATERIAL DE EMBALAJE;                            -;                            -;465.685;                            -
+5112002;3.05.10.00;Otros egresos fuera de la explotación ;AJUSTES DE INVENTARIOS;                            -;                            -;10.344.190;                            -
+5113001;3.05.10.00;Otros egresos fuera de la explotación ;MANO DE OBRA PRODUCCION;                            -;                            -;                            -;                            -
+5113002;3.05.10.00;Otros egresos fuera de la explotación ;AGUA PRODUCCION;                            -;                            -;                            -;                            -
+5113003;3.05.10.00;Otros egresos fuera de la explotación ;ELECTRICIDAD PRODUCCION;                            -;                            -;                            -;                            -
+5113004;3.05.10.00;Otros egresos fuera de la explotación ;COMBUSTIBLE PRODUCCION;                            -;                            -;                            -;                            -
+5113005;3.05.10.00;Otros egresos fuera de la explotación ;INSUMOS DE PROCESOS;                            -;                            -;                            -;                            -
+6111001;3.01.03.00;Gastos de administración y ventas ;REMUNERACIONES;                            -;                            -;190.610.318;                            -
+6111002;3.01.03.00;Gastos de administración y ventas ;APORTES PATRONALES;                            -;                            -;8.314.861;                            -
+6111003;3.01.03.00;Gastos de administración y ventas ;VACACIONES PROPORCIONALES;                            -;                            -;9.676.099;                            -
+6111004;3.01.03.00;Gastos de administración y ventas ;CAPACITACIONES DEL PERSONAL;                            -;                            -;204.250;                            -
+6111102;3.05.10.00;Otros egresos fuera de la explotación ;PATENTE MUNICIPAL;                            -;                            -;14.090.811;                            -
+6111103;3.05.10.00;Otros egresos fuera de la explotación ;TARJETAS DE CRÉDITOS;                            -;                            -;25.318.771;                            -
+6111104;3.05.10.00;Otros egresos fuera de la explotación ;CONTRIBUCIONES BIENES RAICES;                            -;                            -;3.987.570;                            -
+6111201;3.05.10.00;Otros egresos fuera de la explotación ;VIATICOS;                            -;                            -;41.786;                            -
+6111202;3.05.10.00;Otros egresos fuera de la explotación ;PEAJES Y ESTACIONAMIENTOS;                            -;                            -;454.885;                            -
+6111301;3.05.10.00;Otros egresos fuera de la explotación ;SERVICIOS AUDITORIA;                            -;                            -;15.780.048;                            -
+6111303;3.05.10.00;Otros egresos fuera de la explotación ;OTROS GASTOS VARIOS;                            -;                            -;7.943.005;                            -
+6111304;3.05.10.00;Otros egresos fuera de la explotación ;ANALISIS Y MUESTRAS;                            -;                            -;4.319.337;                            -
+6111305;3.05.10.00;Otros egresos fuera de la explotación ;CERTIFICACIONES;                            -;                            -;17.007.300;                            -
+6111401;3.05.10.00;Otros egresos fuera de la explotación ;MANTENCION DE SOFTWARE Y LICENCIAS;                            -;                            -;12.300.946;                            -
+6111402;3.05.10.00;Otros egresos fuera de la explotación ;SERVICIOS DE TERCEROS;                            -;                            -;2.893.269;                            -
+6112001;3.05.10.00;Otros egresos fuera de la explotación ;HONORARIOS PROFESIONALES;                            -;                            -;45.702.944;                            -
+6113001;3.05.10.00;Otros egresos fuera de la explotación ;ARRIENDOS INMUEBLES;                            -;                            -;35.187.319;                            -
+6113002;3.05.10.00;Otros egresos fuera de la explotación ;INSUMOS DE OFICINA;                            -;                            -;5.740.582;                            -
+6113003;3.05.10.00;Otros egresos fuera de la explotación ;INSUMOS DE LABORATORIO;                            -;                            -;18.757.617;                            -
+6113004;3.05.10.00;Otros egresos fuera de la explotación ;OTROS ARRIENDO NO INMUEBLES;                            -;                            -;157.115;                            -
+6113005;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS CAMIONETAS;                            -;                            -;4.910.685;                            -
+6113006;3.05.10.00;Otros egresos fuera de la explotación ;INSUMOS Y SERV. MANTENCION PRODUCCION;                            -;                            -;38.257.915;                            -
+6114001;3.05.10.00;Otros egresos fuera de la explotación ;TELEFONOS, CELULAR Y OTROS MEDIOS DE COMUNICACION;                            -;                            -;5.499.916;                            -
+6115001;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS SEGURIDAD Y ROPA DE TRABAJO;                            -;                            -;3.465.104;                            -
+6115002;3.05.10.00;Otros egresos fuera de la explotación ;PRUEBAS INDUSTRIALES;                            -;                            -;3.239.676;                            -
+6116002;3.05.10.00;Otros egresos fuera de la explotación ;AGUA;                            -;                            -;854.567;                            -
+6116003;3.05.10.00;Otros egresos fuera de la explotación ;GAS;                            -;                            -;896.427;                            -
+6117001;3.05.10.00;Otros egresos fuera de la explotación ;UTILES DE ESCRITORIO;                            -;                            -;1.150.250;                            -
+6117002;3.05.10.00;Otros egresos fuera de la explotación ;UTILES DE ASEO;                            -;                            -;5.044.112;                            -
+6117003;3.05.10.00;Otros egresos fuera de la explotación ;CORREO Y ENCOMIENDAS;                            -;                            -;3.825.137;                            -
+6117004;3.05.10.00;Otros egresos fuera de la explotación ;TRANSPORTES Y FLETES;                            -;                            -;28.534.160;                            -
+6118001;3.05.10.00;Otros egresos fuera de la explotación ;IMPUESTO ESPECIFICO COMPUSTIBLE;                            -;                            -;482.889;                            -
+6118002;3.05.10.00;Otros egresos fuera de la explotación ;IVA NO RECUPERABLE;                            -;                            -;2.982.590;                            -
+6119001;3.05.10.00;Otros egresos fuera de la explotación ;SEGUROS;                            -;                            -;36.642.544;                            -
+6121002;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS DE IMPORTACION;                            -;                            -;52.366.391;                            -
+7111005;3.02.03.00;Otros ingresos fuera de la explotación;INGRESO SUBSIDIO CONTEC;                            -;                            -;                            -;88.940.965
+7131001;3.02.03.00;Otros ingresos fuera de la explotación;CORRECCION MONETARIA;                            -;                            -;                            -;3.648.684
+7141001;3.02.03.00;Otros ingresos fuera de la explotación;DIFERENCIA DE CAMBIO;                            -;                            -;                            -;687.150.779
+8111007;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS PROYECTO ALTA TECNOLOGÍA PRODALYSA;                            -;                            -;116.435.177;                            -
+8111008;3.05.10.00;Otros egresos fuera de la explotación ;GASTO PROYECTO ALTA TECNOLOGÍA CORFO;                            -;                            -;387.902;                            -
+8111009;3.05.10.00;Otros egresos fuera de la explotación ;GASTO PROYECTO CONTEC PRODALYSA;                            -;                            -;43.892.248;                            -
+8111010;3.05.10.00;Otros egresos fuera de la explotación ;GASTO PROYECTO CONTEC CORFO;                            -;                            -;25.878.068;                            -
+8111012;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS PORYECTOS CONTEC DIFERIDOS;                            -;                            -;43.557.008;                            -
+8112001;3.05.10.00;Otros egresos fuera de la explotación ;DEPRECIACION ACTIVO FIJO;                            -;                            -;317.906.448;                            -
+8121001;3.05.10.00;Otros egresos fuera de la explotación ;INTERESES FINANCIEROS;                            -;                            -;57.671.706;                            -
+8121002;3.05.10.00;Otros egresos fuera de la explotación ;INTERESES CREDITOS PRIVADOS;                            -;                            -;48.819.505;                            -
+8122001;3.05.10.00;Otros egresos fuera de la explotación ;INTERESES LINEA DE CREDITO;                            -;                            -;712.966;                            -
+8122002;3.05.10.00;Otros egresos fuera de la explotación ;COMISIONES BANCO;                            -;                            -;1.847.791;                            -
+8122003;3.05.10.00;Otros egresos fuera de la explotación ;GASTOS FINANCIEROS;                            -;                            -;718.274;                            -
+8141001;3.05.10.00;Otros egresos fuera de la explotación ;DIFERENCIA DE CAMBIO;                            -;                            -;627.173.402;                            -
+8152001;3.05.10.00;Otros egresos fuera de la explotación ;IMPUESTOS DIFERIDOS;                            -;                            -;5.705.700;                            -
+8153001;3.05.10.00;Otros egresos fuera de la explotación ;IMPUESTO RENTA 1º CATEGORIA;                            -;                            -;59.056.248;                            -

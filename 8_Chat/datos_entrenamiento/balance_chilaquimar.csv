@@ -1,0 +1,20 @@
+﻿id_cliente;id_estandar;nombre_estandar;nombre_cliente;activo;pasivo;perdida;ganancia
+1112001;1.01.01.00;Disponible;BANCO SANTANDER MONEDA NACIONAL (CLP);538.900;                           -;                      -;                           -
+1142004;1.01.25.00;Documentos por cobrar ;DOCUMENTOS POR COBRAR CORRIENTES;1.393.824;                           -;                      -;                           -
+1181001;1.01.59.00;IVA Crédito Fiscal;IVA CREDITO FISCAL;                           -;                           -;                      -;                           -
+1241001;1.03.01.00;Inversiones en empresas relacionadas;INVERSIONES EN EMPRESAS RELACIONADAS;2.859.084.002;                           -;                      -;                           -
+1301001;1.03.50.00;Impuestos diferidos ;ACTIVOS POR IMPUESTOS DIFERIDOS;24.123.432;                           -;                      -;                           -
+2131001;2.01.11.00;Proveedores por Pagar;PROVEEDORES NACIONALES (CLP);                           -;307.793;                      -;                           -
+2241001;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS X PAGAR EMPRESAS RELACIONADAS NO CORRIENTES CLP;                           -;6.359.596;                      -;                           -
+2241003;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS X PAGAR EMPRESAS RELACIONADAS NO CORRIENTES USD;                           -;324.550.879;                      -;                           -
+3111001;2.03.01.00;Capital pagado;CAPITAL PAGADO;                           -;2.401.259.360;                      -;                           -
+3161001;2.03.04.00;Otras reservas;RESULTADOS ACUMULADOS;18.618.554;                           -;                      -;                           -
+3171001;2.03.04.00;Otras reservas;UTILIDAD (PERDIDA) DEL EJERCICIO;                           -;                           -;                      -;                           -
+4112001;3.02.03.00;Otros ingresos fuera de la explotación;RESULTADOS POR INVERSIONES EN OTRAS SOCIEDADES CLP;                           -;                           -;                      -;170.065.406
+6118002;3.05.10.00;Otros egresos fuera de la explotación ;IVA NO RECUPERABLE;                           -;                           -;13.816;                           -
+6111101;3.05.10.00;Otros egresos fuera de la explotación ;PATENTE MUNICIPAL;                           -;                           -;108.578;                           -
+7141001;3.02.03.00;Otros ingresos fuera de la explotación;DIFERENCIA DE CAMBIO;                           -;                           -;                      -;78.902.730
+8121001;3.05.10.00;Otros egresos fuera de la explotación ;INTERESES FINANCIEROS PRESTAMOS;                           -;                           -;13.692.486;                           -
+8122002;3.05.10.00;Otros egresos fuera de la explotación ;COMISIONES BANCO;                           -;                           -;162.752;                           -
+8141001;3.05.10.00;Otros egresos fuera de la explotación ;DIFERENCIA DE CAMBIO;                           -;                           -;60.926.675;                           -
+8153001;3.06.01.00;Impuesto a La Renta;IMPUESTO RENTA 1º CATEGORIA;                           -;                           -;2.782.745;                           -

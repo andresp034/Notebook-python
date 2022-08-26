@@ -1,0 +1,136 @@
+﻿id_cliente;id_estandar;nombre_estandar;nombre_cliente;activo;pasivo;perdida;ganancia
+11010102;1.01.01.00;Disponible;  Caja                                                    ;0;0;0;0
+11010111;1.01.01.00;Disponible;  Fondos fijos                                                ;400000;0;0;0
+11010114;1.01.01.00;Disponible;  Deposito en Transito                                        ;0;0;0;0
+11010211;1.01.01.00;Disponible;  Banco Chile                                     ;142015245;0;0;0
+11010212;1.01.01.00;Disponible;  Banco Estado                                                ;2000000;0;0;0
+11030101;1.01.05.00;Valores negociables;  Fondos Mutuos                                               ;0;0;0;0
+11040101;1.01.20.00;Deudores por venta, neto (excluye deudores por leasing);  Clientes Facturas Nacionales                                ;497888621;0;0;0
+11050104;1.01.25.00;Documentos por cobrar ;  Cheques Protestados                                         ;1146694;0;0;0
+11050107;1.01.25.00;Documentos por cobrar ;  Cheque al dia                                           ;0;0;0;0
+11050108;1.01.25.00;Documentos por cobrar ;  Cheque en cartera                                       ;247823186;0;0;0
+11050111;1.01.25.00;Documentos por cobrar ;  Cuenta por cobrar relacionado ESVM                          ;22080262;0;0;0
+11050112;1.01.25.00;Documentos por cobrar ;  Vale Vista                                                  ;0;0;0;0
+11050203;1.01.30.00;Deudores varios;  Tarjeta de Credito                                      ;0;0;0;0
+11050206;1.01.30.00;Deudores varios;  Transbank en transito                                       ;0;0;0;0
+11060101;1.03.24.00;Anticipo y préstamos a los empleados;  Anticipos al personal                                       ;0;0;0;0
+11060103;1.01.99.00;Otros activos corrientes;  Fondos a Rendir                                             ;0;0;0;0
+11060107;1.03.24.00;Anticipo y préstamos a los empleados;  Deudor Personal                                             ;0;54174;0;0
+11060201;1.03.25.00;Anticipo a proveedores;  Anticipo a Proveedores                                      ;527977;0;0;0
+11060202;1.01.30.00;Deudores varios;  Otros deudores                                              ;0;0;0;0
+11060203;1.01.99.00;Otros activos corrientes;  Anticipo a Honorarios                                       ;0;0;0;0
+11060204;1.01.99.00;Otros activos corrientes;  Nota de credito por recibir pronto pago                     ;14980379;0;0;0
+11060208;1.01.99.00;Otros activos corrientes;  Notas de Crédito por Recibir Distribuidora                  ;114451098;0;0;0
+11060210;1.01.99.00;Otros activos corrientes;  Provision de Ingreso                                        ;23082665;0;0;0
+11060213;1.01.99.00;Otros activos corrientes;  Deudor Especial Copec Distribuidora                         ;0;0;0;0
+11080102;1.01.50.00;Existencias, neto;  Existecias Playa Bomba Lub Acc Prom                     ;0;0;0;0
+11080106;1.01.50.00;Existencias, neto;  Automoviles Nuevos                                          ;0;0;0;0
+11080113;1.01.50.00;Existencias, neto;  Existencias Accesorios                                      ;6462267;0;0;0
+11080118;1.01.99.00;Otros activos corrientes;  Impuesto Especifico Diesel                                  ;0;0;0;0
+11080120;1.01.50.00;Existencias, neto;  Existencias de Lubricantes Distribuidora                    ;241151051;0;0;0
+11090101;1.01.59.00;IVA Crédito Fiscal;  IVA Credito Fiscal                                          ;0;0;0;0
+11090104;1.01.99.00;Otros activos corrientes;  PPM                                                         ;51604989;0;0;0
+11090107;1.01.62.00;Otros Créditos por recuperar;  Remanente IVA Crédito Fiscal                                ;0;0;0;0
+11100103;1.01.99.00;Otros activos corrientes;  Gasto Diferido                                              ;22290125;0;0;0
+12030101;1.02.13.00;Maquinarias y equipos;  Maquinarias                                                 ;15448843;0;0;0
+12030102;1.02.15.00;Equipos Computacionales y similares;  Equipos computacionales                                     ;497787;0;0;0
+12030103;1.02.17.00;Vehículos;  Vehículos                                                   ;65040187;0;0;0
+12100102;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);  Deprec Acum Maquinarias                                   ;0;1569445;0;0
+12100103;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);  Deprec Acum Equipos computacionales                       ;0;497787;0;0
+12100104;1.02.90.00;Depreciación Acumulada (excepto Automoviles y Activos en Leasing);  Deprec Acum Vehículos                                     ;0;9321585;0;0
+13080103;1.02.99.00;Otros Bienes Propiedad Planta y Equipo;  Otros Intangibles                                           ;181590032;0;0;0
+13090103;1.02.99.00;Otros Bienes Propiedad Planta y Equipo;  Amortizacion Acumulada Otros Intangibles                    ;0;35840604;0;0
+21010111;2.01.01.00;Obligaciones con bancos e instituciones financieras ;  Prestamos bancarios CP                                     ;0;322290125;0;0
+21070103;2.01.99.00;Otros pasivos Corrientes;  Remuneraciones por pagar                                    ;0;0;0;0
+21070104;2.01.99.00;Otros pasivos Corrientes;  Honorarios por pagar                                        ;0;0;0;0
+21070108;2.01.12.00;Acreedores varios;  Cuenta por pagar Personal                                 ;0;7273;0;0
+21070109;2.01.11.00;Proveedores por Pagar;  Proveedores Nacionales                                      ;0;638549554;0;0
+21070112;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);  Cte Cta Relacionada ESVM                                    ;0;121414243;0;0
+21080111;2.01.99.00;Otros pasivos Corrientes;  Deposito por Identificar                                    ;0;519905;0;0
+21100101;2.01.14.00;Documentos por pagar;  Doctos y cuentas por pagar a empresas relacionadas CP      ;0;0;0;0
+21110101;2.01.54.00;Otras Provisiones;  Provisiones de gastos                                       ;0;116105709;0;0
+21110104;2.01.54.00;Otras Provisiones;  Provision de Costo                                          ;23423683;0;0;0
+21120101;2.01.59.00;IVA Débito Fiscal ;  IVA Debito Fiscal                                           ;0;0;0;0
+21120103;2.01.55.00;Retenciones por Pagar;  Retención a Categoria                                      ;0;0;0;0
+21120104;2.01.55.00;Retenciones por Pagar;  Impto Unico a Categoria                                    ;0;0;0;0
+21120105;2.01.55.00;Retenciones por Pagar;  Otros Impuestos por pagar                                   ;0;50779967;0;0
+21120201;2.01.55.00;Retenciones por Pagar;  AFP por pagar                                            ;0;2037351;0;0
+21120202;2.01.55.00;Retenciones por Pagar;  ISAPRE por pagar                                            ;0;1014963;0;0
+21120203;2.01.55.00;Retenciones por Pagar;  INP Por pagar                                               ;0;122489;0;0
+21120204;2.01.55.00;Retenciones por Pagar;  CCAF por pagar                                              ;0;97363;0;0
+21120205;2.01.55.00;Retenciones por Pagar;  Mutual por pagar                                            ;0;576641;0;0
+21130101;2.01.60.00;Impuesto a la renta por Pagar;  Provision Impuesto a la Renta                               ;0;35861340;0;0
+21140101;2.01.70.00;Anticipo de Clientes;  Anticipos de clientes                                       ;0;933317;0;0
+21160101;2.01.99.00;Otros pasivos Corrientes;  Otros pasivos circulantes                                   ;0;0;0;0
+23010101;2.03.01.00;Capital pagado;  Capital                                                     ;0;10000000;0;0
+23060101;2.03.04.00;Otras reservas;  Resultado del ejercicio                                     ;0;212001031;0;0
+31010202;3.02.03.00;Otros ingresos fuera de la explotación;  Accesorios                                                  ;0;0;0;10688563
+31010203;3.02.03.00;Otros ingresos fuera de la explotación;  Promociones                                                 ;0;0;0;1567306
+31010210;3.01.01.00;Ingresos de explotación;  Lubricantes                                             ;0;0;0;3474571300
+31010224;3.01.01.00;Ingresos de explotación;  Venta Bluemax                                               ;0;0;0;15498469
+31010304;3.01.01.00;Ingresos de explotación;  Recuperacion de Gastos                                      ;0;0;0;37610017
+31030105;3.02.03.00;Otros ingresos fuera de la explotación;  Deudor Especial                                         ;0;0;0;16877496
+32010101;3.02.03.00;Otros ingresos fuera de la explotación;  Intereses ganados por colocaciones                          ;0;0;0;94259
+32040103;3.02.03.00;Otros ingresos fuera de la explotación;  Otros Ingresos fuera de la explotacion                      ;0;0;0;53398815
+32040105;3.01.01.00;Ingresos de explotación;  Utilidad x Venta de Vehículos                               ;0;0;0;4500000
+41010101;3.01.03.00;Gastos de administración y ventas ;  Costo mercadería                                            ;0;0;0;0
+41010102;3.01.03.00;Gastos de administración y ventas ;  Costo Ventas                                                ;0;0;133797795;0
+41010104;3.01.03.00;Gastos de administración y ventas ;  Costo Venta Accesorios                                      ;0;0;7776691;0
+41010111;3.01.03.00;Gastos de administración y ventas ;  Costo Combustible Diesel                                    ;0;0;86999;0
+41010113;3.01.03.00;Gastos de administración y ventas ;  Costo Venta Lubricantes                                     ;0;0;888795;0
+41010118;3.01.03.00;Gastos de administración y ventas ;  Costo de Venta Lubricante                               ;0;0;3984562151;0
+41010120;3.02.03.00;Otros ingresos fuera de la explotación;  Notas de Crédito VISION                                     ;0;0;0;981174763
+41010121;3.02.03.00;Otros ingresos fuera de la explotación;  Notas de Crédito Comisión Trimestral                        ;0;0;0;44018410
+41010125;3.02.03.00;Otros ingresos fuera de la explotación;  Descuento por pronto pago                                   ;0;0;0;125138826
+41010126;3.01.03.00;Gastos de administración y ventas ;  Costo Bluemax                                               ;0;0;11849410;0
+41010403;3.01.03.00;Gastos de administración y ventas ;  Deudor Especial                                         ;0;0;19464338;0
+42010101;3.01.03.00;Gastos de administración y ventas ;  Sueldo Base                                                 ;0;0;74501483;0
+42010103;3.01.03.00;Gastos de administración y ventas ;  Gratificacion                                               ;0;0;15515287;0
+42010104;3.01.03.00;Gastos de administración y ventas ;  Bonos                                                       ;0;0;33896361;0
+42010106;3.01.03.00;Gastos de administración y ventas ;  Comisiones del personal                                     ;0;0;109596806;0
+42010107;3.01.03.00;Gastos de administración y ventas ;  Seguro Cesantia                                             ;0;0;5747181;0
+42010108;3.01.03.00;Gastos de administración y ventas ;  Aporte Mutual                                               ;0;0;6001340;0
+42010110;3.01.03.00;Gastos de administración y ventas ;  Aguinaldos                                                  ;0;0;1005000;0
+42010201;3.01.03.00;Gastos de administración y ventas ;  Indemnizaciones                                             ;0;0;6127860;0
+42010206;3.01.03.00;Gastos de administración y ventas ;  Otros gastos en personal                                    ;0;0;1468068;0
+42020101;3.01.03.00;Gastos de administración y ventas ;  Servicios contables y auditoria                             ;0;0;4071959;0
+42020103;3.01.03.00;Gastos de administración y ventas ;  Otros Servicios profesionales                               ;0;0;11709525;0
+42030104;3.01.03.00;Gastos de administración y ventas ;  Arriendo de Maquinarias y Equipos                           ;0;0;6434662;0
+42030203;3.01.03.00;Gastos de administración y ventas ;  Telefonía Movil                                             ;0;0;821497;0
+42030205;3.01.03.00;Gastos de administración y ventas ;  Correo y encomiendas                                        ;0;0;93435;0
+42040101;3.01.03.00;Gastos de administración y ventas ;  Insumos de oficina                                          ;0;0;28664;0
+42040103;3.01.03.00;Gastos de administración y ventas ;  Articulos de imprenta                                       ;0;0;933164;0
+42040105;3.01.03.00;Gastos de administración y ventas ;  Material de aseo                                            ;0;0;206684;0
+42040203;3.01.03.00;Gastos de administración y ventas ;  Otros insumos computacionales                               ;0;0;6464427;0
+42050203;3.01.03.00;Gastos de administración y ventas ;  Mantencion equipos de computacion                           ;0;0;4056600;0
+42050204;3.01.03.00;Gastos de administración y ventas ;  Mantención de Vehículos                                     ;0;0;9591546;0
+42060104;3.01.03.00;Gastos de administración y ventas ;  Otras publicidades                                          ;0;0;20555000;0
+42080101;3.01.03.00;Gastos de administración y ventas ;  Gastos notariales y legales                                 ;0;0;29000;0
+42080102;3.01.03.00;Gastos de administración y ventas ;  Patentes comerciales                                        ;0;0;1195976;0
+42080103;3.05.10.00;Otros egresos fuera de la explotación ;  Impuesto Timbre y Estampillas                               ;0;0;2400000;0
+42080202;3.05.10.00;Otros egresos fuera de la explotación ;  Comisiones bancarias                                        ;0;0;106996;0
+42080901;3.05.10.00;Otros egresos fuera de la explotación ;  Fletes                                                      ;0;0;10813366;0
+42080902;3.05.10.00;Otros egresos fuera de la explotación ;  Comisiones Multas y similares                              ;0;0;775503;0
+42080903;3.05.10.00;Otros egresos fuera de la explotación ;  Otros gastos generales                                      ;0;0;18856642;0
+42080904;3.05.10.00;Otros egresos fuera de la explotación ;  Combustible                                                 ;0;0;15491998;0
+42080905;3.05.10.00;Otros egresos fuera de la explotación ;  Seguros                                                     ;0;0;2342915;0
+42080908;3.05.10.00;Otros egresos fuera de la explotación ;  Movilización y Traslados                                    ;0;0;17295176;0
+42080909;3.02.03.00;Otros ingresos fuera de la explotación;  Donaciones                                                  ;0;0;0;250000
+42080911;3.05.10.00;Otros egresos fuera de la explotación ;  Colaciones                                                  ;0;0;39610;0
+42080912;3.05.10.00;Otros egresos fuera de la explotación ;  Permiso de Circulacion                                      ;0;0;533063;0
+42080913;3.05.10.00;Otros egresos fuera de la explotación ;  Vestuario y Calzado                                         ;0;0;829820;0
+42080916;3.05.10.00;Otros egresos fuera de la explotación ;  Movilizacion y Traslado Choferes                            ;0;0;1043931;0
+42080917;3.05.10.00;Otros egresos fuera de la explotación ;  Peajes Choferes                                             ;0;0;3125686;0
+42080918;3.05.10.00;Otros egresos fuera de la explotación ;  Colacion Choferes                                           ;0;0;1356180;0
+42080919;3.05.10.00;Otros egresos fuera de la explotación ;  Movilizacion y traslado vendedores                          ;0;0;23835;0
+42080921;3.05.10.00;Otros egresos fuera de la explotación ;  IVA NO Recuperable                                          ;0;0;104251;0
+42090101;3.03.01.00;Depreciacion;  Depreciacion del ejercicio                                  ;0;0;6915343;0
+42090103;3.03.01.00;Depreciacion;  Amortizacion intangible                                     ;0;0;18159000;0
+43010101;3.03.01.00;Depreciacion;  Intereses bancarios                                         ;0;0;4082857;0
+43040101;3.05.10.00;Otros egresos fuera de la explotación ;  Perdida por venta de activo fijo                            ;0;0;3389860;0
+43040102;3.05.10.00;Otros egresos fuera de la explotación ;  Otros Egresos fuera de la explotacion                       ;0;0;35573107;0
+44010101;3.02.03.00;Otros ingresos fuera de la explotación;  CM Activo Circulante                                      ;0;0;0;313230
+44010103;3.02.03.00;Otros ingresos fuera de la explotación;  CM Otros Activos                                          ;0;0;0;7026959
+45010101;3.06.01.00;Impuesto a La Renta;  Impuesto a la renta                                         ;0;0;36690458;0
+51010201;3.02.03.00;Otros ingresos fuera de la explotación;  Cuenta de Cuadre Pesos                                      ;0;9082;0;0
+51010301;3.02.03.00;Otros ingresos fuera de la explotación;  Cta differencia cambio Pesos                               ;0;31;0;0

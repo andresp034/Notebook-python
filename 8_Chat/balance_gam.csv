@@ -1,0 +1,21 @@
+﻿id_cliente;id_estandar;nombre_estandar;nombre_cliente;activo;pasivo;perdida;ganancia
+1111001;1.01.01.00;Disponible;CAJA MONEDA NACIONAL (CLP);57735;0;0;0
+1241001;1.03.01.00;Inversiones en empresas relacionadas;INVERSIONES EN EMPRESAS RELACIONADAS;1275578000;0;0;0
+1241002;1.01.99.00;Otros activos corrientes;MENOR VALOR INVERSIONES EN EERR;629255198;0;0;0
+1301001;1.03.50.00;Impuestos diferidos ;ACTIVOS POR IMPUESTOS DIFERIDOS;9228803;0;0;0
+1231003;1.01.40.00;Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS x COBRAR EERR USD;932407925;0;0;0
+1231004;1.01.40.00;Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTA POR COBRAR A PRODALYSA USD;1673756299;0;0;0
+2241001;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS X PAGAR EMPRESAS RELACIONADAS NO CORRIENTES CLP;0;69433355;0;0
+2241003;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS POR PAGAR GRUPO AZUCARERO MEXICO NO CORRIENTES USD;0;1129019541;0;0
+2241004;2.01.40.00;Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil);CUENTAS POR PAGAR HOLDINGSTEVIA NO CORRIENTES USD;0;544736758;0;0
+2161002;2.01.60.00;Impuesto a la renta por Pagar;PROVISION IMPTO RENTA ;0;0;0;0
+3111001;2.03.01.00;Capital pagado;CAPITAL PAGADO;0;2531190056;0;0
+3161001;2.03.04.00;Otras reservas;RESULTADOS ACUMULADOS;0;161752866;0;0
+3171001;2.03.04.00;Otras reservas;UTILIDAD (PERDIDA) DEL EJERCICIO;0;0;0;0
+3171002;2.03.04.00;Otras reservas;CUENTA DE CIERRE EJERCICIO;0;0;0;0
+4112001;3.02.03.00;Otros ingresos fuera de la explotación;RESULTADOS POR INVERSIONES EN OTRAS SOCIEDADES CLP;0;0;0;85547792
+7121001;3.02.03.00;Otros ingresos fuera de la explotación;INTERESES PERCIBIDOS;0;0;0;42500348
+7141001;3.02.03.00;Otros ingresos fuera de la explotación;DIFERENCIA DE CAMBIO;0;0;0;175090467
+8131001;3.05.10.00;Otros egresos fuera de la explotación ;CORRECCION MONETARIA;0;0;370806;0
+8141001;3.05.10.00;Otros egresos fuera de la explotación ;DIFERENCIA DE CAMBIO;0;0;227845220;0
+8153001;3.02.03.00;Otros ingresos fuera de la explotación;IMPUESTO RENTA 1º CATEGORIA;0;0;0;9228803

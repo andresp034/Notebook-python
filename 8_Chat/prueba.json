@@ -1,0 +1,976 @@
+{
+    "cuentas": [
+        {
+            "tag": "Disponible",
+            "patrones": [
+                "Disponible"
+            ],
+            "respuestas": [
+                "Disponible"
+            ]
+        },
+        {
+            "tag": "Depósitos a plazo",
+            "patrones": [
+                "Depósitos a plazo"
+            ],
+            "respuestas": [
+                "Depósitos a plazo"
+            ]
+        },
+        {
+            "tag": "Valores negociables",
+            "patrones": [
+                "Valores negociables"
+            ],
+            "respuestas": [
+                "Valores negociables"
+            ]
+        },
+        {
+            "tag": "Instrumentos derivados ",
+            "patrones": [
+                "Instrumentos derivados "
+            ],
+            "respuestas": [
+                "Instrumentos derivados "
+            ]
+        },
+        {
+            "tag": "Pactos Retrocompra- Retroventa",
+            "patrones": [
+                "Pactos Retrocompra- Retroventa"
+            ],
+            "respuestas": [
+                "Pactos Retrocompra- Retroventa"
+            ]
+        },
+        {
+            "tag": "Inversiones en el Exterior",
+            "patrones": [
+                "Inversiones en el Exterior"
+            ],
+            "respuestas": [
+                "Inversiones en el Exterior"
+            ]
+        },
+        {
+            "tag": "Deudores por venta, neto (excluye deudores por leasing)",
+            "patrones": [
+                "Deudores por venta, neto (excluye deudores por leasing)"
+            ],
+            "respuestas": [
+                "Deudores por venta, neto (excluye deudores por leasing)"
+            ]
+        },
+        {
+            "tag": "Deudores por Leasing",
+            "patrones": [
+                "Deudores por Leasing"
+            ],
+            "respuestas": [
+                "Deudores por Leasing"
+            ]
+        },
+        {
+            "tag": "Documentos por cobrar ",
+            "patrones": [
+                "Documentos por cobrar "
+            ],
+            "respuestas": [
+                "Documentos por cobrar "
+            ]
+        },
+        {
+            "tag": "Deudores varios",
+            "patrones": [
+                "Deudores varios"
+            ],
+            "respuestas": [
+                "Deudores varios"
+            ]
+        },
+        {
+            "tag": "Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil)",
+            "patrones": [
+                "Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil)"
+            ],
+            "respuestas": [
+                "Documentos y cuentas por cobrar empresas relacionadas situadas en Chile (cuenta corriente mercantil)"
+            ]
+        },
+        {
+            "tag": "Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)",
+            "patrones": [
+                "Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)"
+            ],
+            "respuestas": [
+                "Documentos y cuentas por cobrar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)"
+            ]
+        },
+        {
+            "tag": "Existencias, neto",
+            "patrones": [
+                "Existencias, neto"
+            ],
+            "respuestas": [
+                "Existencias, neto"
+            ]
+        },
+        {
+            "tag": "Activos Biológicos, neto",
+            "patrones": [
+                "Activos Biológicos, neto"
+            ],
+            "respuestas": [
+                "Activos Biológicos, neto"
+            ]
+        },
+        {
+            "tag": "Existencias en Tránsito",
+            "patrones": [
+                "Existencias en Tránsito"
+            ],
+            "respuestas": [
+                "Existencias en Tránsito"
+            ]
+        },
+        {
+            "tag": "IVA Crédito Fiscal",
+            "patrones": [
+                "IVA Crédito Fiscal"
+            ],
+            "respuestas": [
+                "IVA Crédito Fiscal"
+            ]
+        },
+        {
+            "tag": "Impuestos por recuperar",
+            "patrones": [
+                "Impuestos por recuperar"
+            ],
+            "respuestas": [
+                "Impuestos por recuperar"
+            ]
+        },
+        {
+            "tag": "Créditos por Donaciones",
+            "patrones": [
+                "Créditos por Donaciones"
+            ],
+            "respuestas": [
+                "Créditos por Donaciones"
+            ]
+        },
+        {
+            "tag": "Otros Créditos por recuperar",
+            "patrones": [
+                "Otros Créditos por recuperar"
+            ],
+            "respuestas": [
+                "Otros Créditos por recuperar"
+            ]
+        },
+        {
+            "tag": "Bienes entregados en leasing",
+            "patrones": [
+                "Bienes entregados en leasing"
+            ],
+            "respuestas": [
+                "Bienes entregados en leasing"
+            ]
+        },
+        {
+            "tag": "Otros activos corrientes",
+            "patrones": [
+                "Otros activos corrientes"
+            ],
+            "respuestas": [
+                "Otros activos corrientes"
+            ]
+        },
+        {
+            "tag": "Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing)",
+            "patrones": [
+                "Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing)"
+            ],
+            "respuestas": [
+                "Propiedad Planta y Equipos y Otros  (excepto bienes entregados en Leasing)"
+            ]
+        },
+        {
+            "tag": "Terrenos",
+            "patrones": [
+                "Terrenos"
+            ],
+            "respuestas": [
+                "Terrenos"
+            ]
+        },
+        {
+            "tag": "Construcción y obras de infraestructura",
+            "patrones": [
+                "Construcción y obras de infraestructura"
+            ],
+            "respuestas": [
+                "Construcción y obras de infraestructura"
+            ]
+        },
+        {
+            "tag": "Maquinarias y equipos",
+            "patrones": [
+                "Maquinarias y equipos"
+            ],
+            "respuestas": [
+                "Maquinarias y equipos"
+            ]
+        },
+        {
+            "tag": "Muebles y utiles",
+            "patrones": [
+                "Muebles y utiles"
+            ],
+            "respuestas": [
+                "Muebles y utiles"
+            ]
+        },
+        {
+            "tag": "Equipos Computacionales y similares",
+            "patrones": [
+                "Equipos Computacionales y similares"
+            ],
+            "respuestas": [
+                "Equipos Computacionales y similares"
+            ]
+        },
+        {
+            "tag": "Automóviles",
+            "patrones": [
+                "Automóviles"
+            ],
+            "respuestas": [
+                "Automóviles"
+            ]
+        },
+        {
+            "tag": "Vehículos",
+            "patrones": [
+                "Vehículos"
+            ],
+            "respuestas": [
+                "Vehículos"
+            ]
+        },
+        {
+            "tag": "Barcos y Aviones",
+            "patrones": [
+                "Barcos y Aviones"
+            ],
+            "respuestas": [
+                "Barcos y Aviones"
+            ]
+        },
+        {
+            "tag": "Propiedades de Inversion",
+            "patrones": [
+                "Propiedades de Inversion"
+            ],
+            "respuestas": [
+                "Propiedades de Inversion"
+            ]
+        },
+        {
+            "tag": "Software",
+            "patrones": [
+                "Software"
+            ],
+            "respuestas": [
+                "Software"
+            ]
+        },
+        {
+            "tag": "Concesiones",
+            "patrones": [
+                "Concesiones"
+            ],
+            "respuestas": [
+                "Concesiones"
+            ]
+        },
+        {
+            "tag": "Obras en Ejecución",
+            "patrones": [
+                "Obras en Ejecución"
+            ],
+            "respuestas": [
+                "Obras en Ejecución"
+            ]
+        },
+        {
+            "tag": "Obras en Ejecución",
+            "patrones": [
+                "Obras en Ejecución"
+            ],
+            "respuestas": [
+                "Obras en Ejecución"
+            ]
+        },
+        {
+            "tag": "Activos en Leasing",
+            "patrones": [
+                "Activos en Leasing"
+            ],
+            "respuestas": [
+                "Activos en Leasing"
+            ]
+        },
+        {
+            "tag": "Depreciación Acumulada (excepto Automoviles y Activos en Leasing)",
+            "patrones": [
+                "Depreciación Acumulada (excepto Automoviles y Activos en Leasing)"
+            ],
+            "respuestas": [
+                "Depreciación Acumulada (excepto Automoviles y Activos en Leasing)"
+            ]
+        },
+        {
+            "tag": "Depreciación Acumulada Automóviles",
+            "patrones": [
+                "Depreciación Acumulada Automóviles"
+            ],
+            "respuestas": [
+                "Depreciación Acumulada Automóviles"
+            ]
+        },
+        {
+            "tag": "Depreciación Acumulada Activos en Leasing",
+            "patrones": [
+                "Depreciación Acumulada Activos en Leasing"
+            ],
+            "respuestas": [
+                "Depreciación Acumulada Activos en Leasing"
+            ]
+        },
+        {
+            "tag": "Otros Bienes Propiedad Planta y Equipo",
+            "patrones": [
+                "Otros Bienes Propiedad Planta y Equipo"
+            ],
+            "respuestas": [
+                "Otros Bienes Propiedad Planta y Equipo"
+            ]
+        },
+        {
+            "tag": "Inversiones en empresas relacionadas",
+            "patrones": [
+                "Inversiones en empresas relacionadas"
+            ],
+            "respuestas": [
+                "Inversiones en empresas relacionadas"
+            ]
+        },
+        {
+            "tag": "Menor valor de inversiones (Plusvalias, Goodwill)",
+            "patrones": [
+                "Menor valor de inversiones (Plusvalias, Goodwill)"
+            ],
+            "respuestas": [
+                "Menor valor de inversiones (Plusvalias, Goodwill)"
+            ]
+        },
+        {
+            "tag": "Mayor valor de inversiones (Minusvalias, Badwill)",
+            "patrones": [
+                "Mayor valor de inversiones (Minusvalias, Badwill)"
+            ],
+            "respuestas": [
+                "Mayor valor de inversiones (Minusvalias, Badwill)"
+            ]
+        },
+        {
+            "tag": "Cuenta Particular Socio",
+            "patrones": [
+                "Cuenta Particular Socio"
+            ],
+            "respuestas": [
+                "Cuenta Particular Socio"
+            ]
+        },
+        {
+            "tag": "Inversiones en otras sociedades en Chile",
+            "patrones": [
+                "Inversiones en otras sociedades en Chile"
+            ],
+            "respuestas": [
+                "Inversiones en otras sociedades en Chile"
+            ]
+        },
+        {
+            "tag": "Inversiones en otras sociedades en el extranjero",
+            "patrones": [
+                "Inversiones en otras sociedades en el extranjero"
+            ],
+            "respuestas": [
+                "Inversiones en otras sociedades en el extranjero"
+            ]
+        },
+        {
+            "tag": "Cuenta en participacion",
+            "patrones": [
+                "Cuenta en participacion"
+            ],
+            "respuestas": [
+                "Cuenta en participacion"
+            ]
+        },
+        {
+            "tag": "Inversion en Agencias",
+            "patrones": [
+                "Inversion en Agencias"
+            ],
+            "respuestas": [
+                "Inversion en Agencias"
+            ]
+        },
+        {
+            "tag": "Deudores a largo plazo",
+            "patrones": [
+                "Deudores a largo plazo"
+            ],
+            "respuestas": [
+                "Deudores a largo plazo"
+            ]
+        },
+        {
+            "tag": "Anticipo y préstamos a los empleados",
+            "patrones": [
+                "Anticipo y préstamos a los empleados"
+            ],
+            "respuestas": [
+                "Anticipo y préstamos a los empleados"
+            ]
+        },
+        {
+            "tag": "Anticipo a proveedores",
+            "patrones": [
+                "Anticipo a proveedores"
+            ],
+            "respuestas": [
+                "Anticipo a proveedores"
+            ]
+        },
+        {
+            "tag": "Gastos pagados por anticipado",
+            "patrones": [
+                "Gastos pagados por anticipado"
+            ],
+            "respuestas": [
+                "Gastos pagados por anticipado"
+            ]
+        },
+        {
+            "tag": "Gastos de Investigación y Desarrollo",
+            "patrones": [
+                "Gastos de Investigación y Desarrollo"
+            ],
+            "respuestas": [
+                "Gastos de Investigación y Desarrollo"
+            ]
+        },
+        {
+            "tag": "Gastos Diferidos",
+            "patrones": [
+                "Gastos Diferidos"
+            ],
+            "respuestas": [
+                "Gastos Diferidos"
+            ]
+        },
+        {
+            "tag": "Menor Valor en Colocacion de bonos",
+            "patrones": [
+                "Menor Valor en Colocacion de bonos"
+            ],
+            "respuestas": [
+                "Menor Valor en Colocacion de bonos"
+            ]
+        },
+        {
+            "tag": "Intereses Diferidos por Leasing",
+            "patrones": [
+                "Intereses Diferidos por Leasing"
+            ],
+            "respuestas": [
+                "Intereses Diferidos por Leasing"
+            ]
+        },
+        {
+            "tag": "Otros Intereses Diferidos",
+            "patrones": [
+                "Otros Intereses Diferidos"
+            ],
+            "respuestas": [
+                "Otros Intereses Diferidos"
+            ]
+        },
+        {
+            "tag": "Garantias",
+            "patrones": [
+                "Garantias"
+            ],
+            "respuestas": [
+                "Garantias"
+            ]
+        },
+        {
+            "tag": "Impuestos diferidos ",
+            "patrones": [
+                "Impuestos diferidos "
+            ],
+            "respuestas": [
+                "Impuestos diferidos "
+            ]
+        },
+        {
+            "tag": "Intangibles distintos a la Plusvalia (neto)",
+            "patrones": [
+                "Intangibles distintos a la Plusvalia (neto)"
+            ],
+            "respuestas": [
+                "Intangibles distintos a la Plusvalia (neto)"
+            ]
+        },
+        {
+            "tag": "Posicion de Cambio",
+            "patrones": [
+                "Posicion de Cambio"
+            ],
+            "respuestas": [
+                "Posicion de Cambio"
+            ]
+        },
+        {
+            "tag": "Intereses Suspendidos",
+            "patrones": [
+                "Intereses Suspendidos"
+            ],
+            "respuestas": [
+                "Intereses Suspendidos"
+            ]
+        },
+        {
+            "tag": "Cuentas de Orden de Activos",
+            "patrones": [
+                "Cuentas de Orden de Activos"
+            ],
+            "respuestas": [
+                "Cuentas de Orden de Activos"
+            ]
+        },
+        {
+            "tag": "Otros Activos No Corrientes",
+            "patrones": [
+                "Otros Activos No Corrientes"
+            ],
+            "respuestas": [
+                "Otros Activos No Corrientes"
+            ]
+        },
+        {
+            "tag": "Obligaciones con bancos e instituciones financieras ",
+            "patrones": [
+                "Obligaciones con bancos e instituciones financieras "
+            ],
+            "respuestas": [
+                "Obligaciones con bancos e instituciones financieras "
+            ]
+        },
+        {
+            "tag": "Obligaciones con el público (Bonos Emitidos)",
+            "patrones": [
+                "Obligaciones con el público (Bonos Emitidos)"
+            ],
+            "respuestas": [
+                "Obligaciones con el público (Bonos Emitidos)"
+            ]
+        },
+        {
+            "tag": "Obligaciones por Leasing",
+            "patrones": [
+                "Obligaciones por Leasing"
+            ],
+            "respuestas": [
+                "Obligaciones por Leasing"
+            ]
+        },
+        {
+            "tag": "Instrumentos derivados ",
+            "patrones": [
+                "Instrumentos derivados "
+            ],
+            "respuestas": [
+                "Instrumentos derivados "
+            ]
+        },
+        {
+            "tag": "Fondo Opcion de Compra por Pagar (Leasing)",
+            "patrones": [
+                "Fondo Opcion de Compra por Pagar (Leasing)"
+            ],
+            "respuestas": [
+                "Fondo Opcion de Compra por Pagar (Leasing)"
+            ]
+        },
+        {
+            "tag": "Cuentas por pagar",
+            "patrones": [
+                "Cuentas por pagar"
+            ],
+            "respuestas": [
+                "Cuentas por pagar"
+            ]
+        },
+        {
+            "tag": "Proveedores por Pagar",
+            "patrones": [
+                "Proveedores por Pagar"
+            ],
+            "respuestas": [
+                "Proveedores por Pagar"
+            ]
+        },
+        {
+            "tag": "Acreedores varios",
+            "patrones": [
+                "Acreedores varios"
+            ],
+            "respuestas": [
+                "Acreedores varios"
+            ]
+        },
+        {
+            "tag": "Documentos por pagar",
+            "patrones": [
+                "Documentos por pagar"
+            ],
+            "respuestas": [
+                "Documentos por pagar"
+            ]
+        },
+        {
+            "tag": "Dividendos por pagar",
+            "patrones": [
+                "Dividendos por pagar"
+            ],
+            "respuestas": [
+                "Dividendos por pagar"
+            ]
+        },
+        {
+            "tag": "Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil)",
+            "patrones": [
+                "Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil)"
+            ],
+            "respuestas": [
+                "Documentos y cuentas por pagar empresas relacionadas situadas en Chile (cuenta corriente mercantil)"
+            ]
+        },
+        {
+            "tag": "Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)",
+            "patrones": [
+                "Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)"
+            ],
+            "respuestas": [
+                "Documentos y cuentas por pagar empresas relacionadas situadas en el Extranjero (cuenta corriente mercantil)"
+            ]
+        },
+        {
+            "tag": "Provision de Indemnización",
+            "patrones": [
+                "Provision de Indemnización"
+            ],
+            "respuestas": [
+                "Provision de Indemnización"
+            ]
+        },
+        {
+            "tag": "Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados",
+            "patrones": [
+                "Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados"
+            ],
+            "respuestas": [
+                "Provisiones por Vacaciones, por Bonos y por otros Beneficios a los Empleados"
+            ]
+        },
+        {
+            "tag": "Otras Provisiones",
+            "patrones": [
+                "Otras Provisiones"
+            ],
+            "respuestas": [
+                "Otras Provisiones"
+            ]
+        },
+        {
+            "tag": "Retenciones por Pagar",
+            "patrones": [
+                "Retenciones por Pagar"
+            ],
+            "respuestas": [
+                "Retenciones por Pagar"
+            ]
+        },
+        {
+            "tag": "IVA Débito Fiscal ",
+            "patrones": [
+                "IVA Débito Fiscal "
+            ],
+            "respuestas": [
+                "IVA Débito Fiscal "
+            ]
+        },
+        {
+            "tag": "Impuesto a la renta por Pagar",
+            "patrones": [
+                "Impuesto a la renta por Pagar"
+            ],
+            "respuestas": [
+                "Impuesto a la renta por Pagar"
+            ]
+        },
+        {
+            "tag": "Otros Impuestos por Pagar",
+            "patrones": [
+                "Otros Impuestos por Pagar"
+            ],
+            "respuestas": [
+                "Otros Impuestos por Pagar"
+            ]
+        },
+        {
+            "tag": "Ingresos percibidos por adelantado",
+            "patrones": [
+                "Ingresos percibidos por adelantado"
+            ],
+            "respuestas": [
+                "Ingresos percibidos por adelantado"
+            ]
+        },
+        {
+            "tag": "Anticipo de Clientes",
+            "patrones": [
+                "Anticipo de Clientes"
+            ],
+            "respuestas": [
+                "Anticipo de Clientes"
+            ]
+        },
+        {
+            "tag": "Otros pasivos Corrientes",
+            "patrones": [
+                "Otros pasivos Corrientes"
+            ],
+            "respuestas": [
+                "Otros pasivos Corrientes"
+            ]
+        },
+        {
+            "tag": "Obligaciones con bancos e instituciones financieras ",
+            "patrones": [
+                "Obligaciones con bancos e instituciones financieras "
+            ],
+            "respuestas": [
+                "Obligaciones con bancos e instituciones financieras "
+            ]
+        },
+        {
+            "tag": "Obligaciones con el público (Bonos Emitidos)",
+            "patrones": [
+                "Obligaciones con el público (Bonos Emitidos)"
+            ],
+            "respuestas": [
+                "Obligaciones con el público (Bonos Emitidos)"
+            ]
+        },
+        {
+            "tag": "Documentos por pagar largo plazo",
+            "patrones": [
+                "Documentos por pagar largo plazo"
+            ],
+            "respuestas": [
+                "Documentos por pagar largo plazo"
+            ]
+        },
+        {
+            "tag": "Acreedores varios largo plazo",
+            "patrones": [
+                "Acreedores varios largo plazo"
+            ],
+            "respuestas": [
+                "Acreedores varios largo plazo"
+            ]
+        },
+        {
+            "tag": "Provisiones ",
+            "patrones": [
+                "Provisiones "
+            ],
+            "respuestas": [
+                "Provisiones "
+            ]
+        },
+        {
+            "tag": "Impuestos diferidos ",
+            "patrones": [
+                "Impuestos diferidos "
+            ],
+            "respuestas": [
+                "Impuestos diferidos "
+            ]
+        },
+        {
+            "tag": "Cuentas de Orden de Pasivos",
+            "patrones": [
+                "Cuentas de Orden de Pasivos"
+            ],
+            "respuestas": [
+                "Cuentas de Orden de Pasivos"
+            ]
+        },
+        {
+            "tag": "Otros pasivos NO Corrientes",
+            "patrones": [
+                "Otros pasivos NO Corrientes"
+            ],
+            "respuestas": [
+                "Otros pasivos NO Corrientes"
+            ]
+        },
+        {
+            "tag": "Capital pagado",
+            "patrones": [
+                "Capital pagado"
+            ],
+            "respuestas": [
+                "Capital pagado"
+            ]
+        },
+        {
+            "tag": "Reserva revalorización capital",
+            "patrones": [
+                "Reserva revalorización capital"
+            ],
+            "respuestas": [
+                "Reserva revalorización capital"
+            ]
+        },
+        {
+            "tag": "Sobreprecio en venta de acciones propias",
+            "patrones": [
+                "Sobreprecio en venta de acciones propias"
+            ],
+            "respuestas": [
+                "Sobreprecio en venta de acciones propias"
+            ]
+        },
+        {
+            "tag": "Otras reservas",
+            "patrones": [
+                "Otras reservas"
+            ],
+            "respuestas": [
+                "Otras reservas"
+            ]
+        },
+        {
+            "tag": "Reservas futuros dividendos",
+            "patrones": [
+                "Reservas futuros dividendos"
+            ],
+            "respuestas": [
+                "Reservas futuros dividendos"
+            ]
+        },
+        {
+            "tag": "Utilidades acumuladas",
+            "patrones": [
+                "Utilidades acumuladas"
+            ],
+            "respuestas": [
+                "Utilidades acumuladas"
+            ]
+        },
+        {
+            "tag": "Pérdidas acumuladas",
+            "patrones": [
+                "Pérdidas acumuladas"
+            ],
+            "respuestas": [
+                "Pérdidas acumuladas"
+            ]
+        },
+        {
+            "tag": "Dividendos provisorios",
+            "patrones": [
+                "Dividendos provisorios"
+            ],
+            "respuestas": [
+                "Dividendos provisorios"
+            ]
+        },
+        {
+            "tag": "Cuenta Obligada Socio",
+            "patrones": [
+                "Cuenta Obligada Socio"
+            ],
+            "respuestas": [
+                "Cuenta Obligada Socio"
+            ]
+        },
+        {
+            "tag": "Reserva Ajuste IFRS por 1a Aplicación",
+            "patrones": [
+                "Reserva Ajuste IFRS por 1a Aplicación"
+            ],
+            "respuestas": [
+                "Reserva Ajuste IFRS por 1a Aplicación"
+            ]
+        },
+        {
+            "tag": "Reserva Ajuste IFRS ",
+            "patrones": [
+                "Reserva Ajuste IFRS "
+            ],
+            "respuestas": [
+                "Reserva Ajuste IFRS "
+            ]
+        },
+        {
+            "tag": "Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.544",
+            "patrones": [
+                "Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.544"
+            ],
+            "respuestas": [
+                "Valor Mercado Intrumentos Derivados de Cobertura acogidos Ley 20.544"
+            ]
+        },
+        {
+            "tag": "Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.544",
+            "patrones": [
+                "Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.544"
+            ],
+            "respuestas": [
+                "Valor Mercado Intrumentos Derivados de Cobertura No acogidos Ley 20.544"
+            ]
+        },
+        {
+            "tag": "Otros ajustes patrimoniales",
+            "patrones": [
+                "Otros ajustes patrimoniales"
+            ],
+            "respuestas": [
+                "Otros ajustes patrimoniales"
+            ]
+        }
+    ]
+}
